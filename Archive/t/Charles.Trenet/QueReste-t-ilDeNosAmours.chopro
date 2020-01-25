@@ -1,0 +1,72 @@
+# {define: A7/9   1 x 0 2 3 2 3}
+{define: A7/9 base-fret 1 frets 3 2 3 2 0 x }
+# {define: Abmaj7 1 x x 1 1 1 3}
+{define: Abmaj7 base-fret 1 frets 3 1 1 1 x x }
+# {define: Bb/9   1 x 1 0 1 1 1}
+{define: Bb/9 base-fret 1 frets 1 1 1 0 1 x }
+# {define: C7/9   1 x 3 2 3 2 x}
+{define: C7/9 base-fret 1 frets x 2 3 2 3 x }
+# {define: C11    1 x 3 3 3 3 x}
+{define: C11 base-fret 1 frets x 3 3 3 3 x }
+# {define: Dm6    1 x x 0 2 0 1}
+{define: Dm6 base-fret 1 frets 1 0 2 0 x x }
+# {define: Dm7/G  1 3 x 0 2 1 1}
+{define: Dm7/G base-fret 1 frets 1 1 2 0 x 3 }
+# {define: D9     5 x 2 1 2 2 2}
+{define: D9 base-fret 5 frets 2 2 2 1 2 x }
+# {define: D11    5 x 2 2 2 2 2}
+{define: D11 base-fret 5 frets 2 2 2 2 2 x }
+# {define: Em7/5  1 x x 2 3 3 3}
+{define: Em7/5 base-fret 1 frets 3 3 3 2 x x }
+# {define: Fm6    1 x x 0 1 1 1}
+{define: Fm6 base-fret 1 frets 1 1 1 0 x x }
+# {define: Fm7    1 x x 1 1 1 1}
+{define: Fm7 base-fret 1 frets 1 1 1 1 x x }
+# {define: G7/9   1 3 x 3 1 0 x}
+{define: G7/9 base-fret 1 frets x 0 1 3 x 3 }
+# {define: Gm7    1 3 x 3 3 3 x}
+{define: Gm7 base-fret 1 frets x 3 3 3 x 3 }
+# {define: Gm6    1 x x 2 3 3 3}
+{define: Gm6 base-fret 1 frets 3 3 3 2 x x }
+{title:I wish you Love}
+{st:Que reste-t-il de nos amours?}
+{st:Albert Beach/Charles Trenet}
+[A7/9]I wish you [Dm7]bluebir[G7]ds in the [Dm7]spring
+[G7]to give you [Cmaj7]heart [Am7]a song to [Cmaj7]sing
+[Am7]and then a [Dm7]kiss [Dm7/G]but more than [Dm6]this
+[G7/9]I wish you [C]love [Em7/5]
+
+[A7/9]And in Ju[Dm7]ly [G7]a lemon[Dm7]ade
+[G7]to cool you [Cmaj7]in so[Am7]me leafy [Cmaj7]glade
+[Am7]I wish [Dm7]health [Dm7/G]and more than [Dm6]wealth
+[G7]I wish you [Gm7]love [C7/9]
+
+[C11]My breaking [Fmaj7]heart and I a[Fm7]gree
+[Bb9]that you and [Em7]I [Gm6]could never [A7/9]be
+so with my [Dm7]best, my very [D11]best
+[D9]I set you [G7]free [Dm7/G]
+
+[A7/9]I wish you [Dm7]shelter [G7]from the [Dm7]storm
+[G7]a cozy [Cmaj7]fire [Am7]to keep you warm
+[Am7]but most of [Dm7]all, when snowflakes [Dm7/G]fall
+[G7/9]I wish you [Abmaj7]love [Fm6] [Cmaj7]
+
+[A7/9]Que reste-t-[Dm7]il [G7]de nos a[Dm7]mours?
+[G7]que reste-[Cmaj7]t-il [Am7]de ces beaux [Cmaj7]jours?
+[Am7]Une pho[Dm7]to [Dm7/G]vieille pho[Dm6]to
+[G7/9]de ma jeu[C]nesse [Em7/5]
+
+[A7/9]Que reste-t-il [G7]des billets [Dm7]doux,
+[G7]des mois d'A[Cmaj7]vril [Am7]des rendez-[Cmaj7]vous?
+[Am7]Un souve[Dm7]nir [Dm7/G]qui me pour[Dm6]suit
+[G7]sans [Gm7]cesse [C7/9]
+
+[C11]Bonheur fa[Fmaj7]né, cheveux au [Fm7]vent;
+[Bb9]baisers vo[Em7]lés, [Gm6]reves mou[A7/9]vants
+Que reste-t-[Dm7]il de tout ce[D11]la
+[D9]dites-le [G7]moi [Dm7/G]
+
+[A7/9]Un p'tit villa[Dm7]ge; [G7]un vieux clo[Dm7]cher;
+[G7]un pay[Cmaj7]sage [Am7]si bien ca[Cmaj7]ché
+[Am7]Et dans un nu[Dm7]age, le cher vi[Dm7/G]sage
+[G7/9]de mon pas[Abmaj7]sé [Fm6] [Cmaj7]

@@ -1,0 +1,41 @@
+# From: dlw@eng.mc.xerox.com (Don Wegeng)
+{title:Endless Sky}
+{st:Check Pyle}
+{define A/D base-fret 1 frets x x 0 2 2 0}
+{define A7  base-fret 1 frets x 0 2 0 2 0}
+{define Bb6 base-fret 1 frets x 1 3 0 3 x}
+{define Em7 base-fret 1 frets 0 2 x 0 3 0}
+{define Em9 base-fret 1 frets 0 2 x 0 3 2}
+
+{c:Capo 3}
+
+{c:Intro...}
+[D] [Em] [A7] [Bm] [G] [A7] [D] [Em][A7]
+[D]Born on a rainy night,[Em]      [A7]raised in the blowin' wind[Bm]
+[G]Waitin' for a ride on the [A7]next storm blowin' [D]in [Em][A7]
+For the [D]money I never cared,[Em]      it was [A7]ridin' that got me there[Bm]
+That and [G]coffee at dawn, out [A7]under that blue fron[D]tier [Em][A7]
+
+{c:Chorus}
+{soc}
+Give me a [A/D]fence to [D]mend and a river bend, and a [Em]dry night under the stars
+A [Em9]harmonica [A7]moon, [Em7]coyote in [A7]tune, [A/D]played on a [D]saddle guitar [Em][A7]
+Though I've [A/D]settled [D]down at the edge of town, I re[Em]member my lonesome eyes
+[Em9]Seein' the [A7]freedom of the [Em7]tumbleweed,[A7]      the [Em]spirit of the [A7]endless sky [D]
+{eoc}
+
+I've traded in my workin' spurs for life of the his and hers
+Oh she's one of a kind and lord I know I'm one lucky guy
+Besides nothin's quite the same, this cowboyin's gotten too tame
+And the roof of a pickup takes up too much of the sky
+
+{c:Chorus}
+
+{c:Bridge}
+{soc}
+[D]  Out there my [D7]heart is speakin'[G] so loud and [Gm6]clear
+[D]  Here it's only a whis[E7]per, and it's [Em7]so hard to [A7]hear [A7sus4] [A7] [A7sus4]
+{eoc}
+
+{c:Chorus, w/ last verse:}
+...[Em9]Seein' the [A7]freedom of the [Em7]tumbleweed,[A7]      the [Em]spirit of the [A7]endless [Bb6]sky [Gm6] [D]

@@ -1,0 +1,73 @@
+# From: Regis Houde <regie@ireq-robot.hydro.qc.ca>
+{title:L'oubli}
+{st:Michel Rivard}
+{define: Am7* 1 0 1 0 2 0 -1}
+{define: Am7/E 1 0 1 2 2 -1 -1}
+{define: Am/D 1 0 1 2 0 -1 -1}
+{define: CM7/E 1 0 0 0 2 3 0}
+{define: Em/D 1 0 0 0 0 -1 -1}
+{define: Em/D# 1 0 0 0 1 -1 -1}
+{define: Em/B 1 0 0 0 2 2 -1}
+{define: Em/C# 1 0 0 0 2 4 -1}
+{define: Em2 1 2 0 0 2 2 0}
+{define: Em2/B 1 2 0 0 2 2 -1}
+{define: FM7 1 0 1 2 3 -1 -1}
+{define: FM7/A 1 0 1 2 3 0 -1}
+
+Intro : Am7  Am/D Em2 Em2/B
+
+[Am7]C'itait un homme imagina[Am7/E]ire
+[Em2]Imagineur d'objets trouv[Em2/B]is
+Un inve[Am7]nteur de faits diver[Am/D]s
+Un [Em2]rjveur de rialit[Em2/B]i
+Il habit[Am7]ait en solitair[Am7/E]e
+Une m[Em2]aison  du carri St-Loui[Em2/B]s
+2 o[Am7]u 3 chats beaucoup d'lumihr[Am/D]e
+De te[Em2]mps ` autre un vieil am[Em2/B]i
+Il ai[Am7*]mait l'ordre et la douc[Am7*]eur
+et d[GM7]errihre ses petites man[GM7]ies
+se c[FM7/A]achait l'idie du bonh[FM7]eur
+sans fa[Em]ire de[Em/D#] mal s[Em/D]ans faire de bruit  [Em/C#]
+Et [CM7]dans le noir de sa mim[CM7/E]oire
+s'o[Em/B]uvrait le trou blanc de l'o[Em2]ublie
+
+{soc}
+[Em2]L'oubli[Em2/B],           l[Am7]'oubli [Am7/E]
+L[Em2]'oubli des mots, l'oubli des ge[Am7*]stes
+l[D7]'oubli de tout ce temps qui re[GM7]ste
+Prisonni[Am]er de ce fune[CM7]ste oubl[Em2]ie  [Em]     [Em2]       [Em]
+{eoc}
+
+Il avait aimi une femme
+Mais c'itait il y a trhs longtemps
+Pluttt que d'y laisser son bme
+Il avait viri comme le vent
+Maintenant des gargons d'passage
+lui dirobaient des bouts d'sa vie
+Il dessinait leur doux visage
+Et repartaient sans dire merci
+Il notait tout dans un carnet,
+le nom des gens l'odeur des choses
+Et quand le vent virait morose,
+pour se souvenir il relisait
+mais il voyait entre les lignes
+grandir le trou blanc de l'oubli
+
+{c:Refrain}
+
+Un jour en rentrant du cafi
+oy chaque matin venait s'asseoir
+par le trou blanc de sa mimoire
+il sentit sa vie s'en aller
+il icrivit comme ` l'icole,
+son nom en lettres ditachies
+Puis il ipingla sur le col
+de son manteau le bout d'papier
+Dans l'eau glacie du St-Laurent
+Il revit couler son enfance
+Et offrit son corps en silence
+Au dimon qui suit le courant
+Je chante pour ne pas qu'il meure
+Je chante pour tuer l'oubli
+
+{c: Refrain 2 fois}

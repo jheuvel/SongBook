@@ -1,0 +1,28 @@
+{title:Letter From Home}
+{st:Pat Metheny}
+{define: Bbsus2 base-fret 1 frets - 1 3 3 1 1}
+{define: A#m6 base-fret 5 frets 2 - 1 2 2 2}
+{define: Eb base-fret 3 frets - 4 3 1 2 1}
+{define: C# base-fret 4 frets - 1 3 3 3 1}
+{define: D# base-fret 6 frets - 1 3 3 3 1}
+{define: C6 base-fret 7 frets 2 - 1 3 2 -}
+{define: A#/D base-fret 8 frets 3 - 1 3 4 -}
+{define: C/E base-fret 10 frets 3 - 1 3 4 -}
+{define: Csus4 base-fret 1 frets - 3 - 0 1 1}
+{define: Fm7 base-fret 8 frets - 1 3 1 2 1}
+{define: Fmno5th base-fret 8 frets - 1 - - 2 -}
+{define: D#mno5th base-fret 6 frets - 1 - - 2 -}
+{define: A#/D* base-fret 1 frets - - 0 3 3 1}
+{define: Fm/C base-fret 1 frets - 3 - 1 1 1}
+{define: C#sus4add9 base-fret 1 frets - 4 - 1 4 1}
+{define: G#sus4/D# base-fret 1 frets - - 1 1 2 4}
+[Bbsus2]  [F]  [G#]  [Gm]  [Eb]  [F#]  [F]
+[Am]  [A#m6]  [C6]  [A#/D]  [C/E]  [F]  [C#]
+[G#]  [Csus4]  [C#]  [Bb]  [F]  [C#]  [G#]
+[Csus4]  [C#]  [D#]  [G#]  [Fm7]  [D#]  [Fmno5th]
+[D#mno5th]  [A#/D*]  [Fm/C]  [Bb]  [C#sus4add9] 
+[Bbm7]  [G#sus4/D#]  [Fm]
+#
+# by Paul Porcelli <gnaa38@aero.gla.ac.uk
+# 23 May 1994
+

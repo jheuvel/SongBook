@@ -1,0 +1,50 @@
+# From: dave@eng.umd.edu (David C. Fleming)
+{t:Love You}
+{st:Syd Barrett}
+#from the album _The Madcap Laughs_
+{define A base-fret 5 frets 1 3 3 2 1 1}
+{define A# base-fret 5 frets 2 4 4 3 2 2}
+{define B base-fret 7 frets 1 3 3 2 1 1}
+{define E base-fret 7 frets x 1 3 3 3 1}
+{define A7 base-fret 5 frets 1 3 1 2 1 1}
+{define G7 base-fret 3 frets 1 3 1 2 1 1}
+{define F#7 base-fret 1 frets 2 4 2 3 2 2}
+
+#For the intro I stick to E (or E7) shape barre chords.  This is 
+#a pretty simplistic approach on my part which, of course, I don't
+#think this is 100% right, so if you have any improvements, please 
+#let me know:
+
+Intro: A B A7 G7 F#7    A B    E
+
+{c:Verses:}
+[A]Honey, love ya, 
+Honey, little honey, funny, Sunday [A#]morning
+[B]Love you more funny, Love in the skyline baby. 
+[E]Ice cream, 'scuse me,
+I've seen you looking good the other [A]evening[E]
+
+Oh, you, dig it
+Had to smile just an hour or so
+Are we in love like I think we be?
+It ain't a long rhyme, it took ages to think
+I think I'll hurl it in the water, baby.
+
+{c:Repeat first verse}
+
+Flaking you are 
+A nice little one to put it all around
+It's just good, I like it
+Hey, hey, hey. Suppose some time that day
+Whoopee, swing it on over across to me.
+
+{c:Repeat first verse}
+
+Good time rocker woman
+Will stray, ah, pieces a little creepy
+We shine so sleepy,
+So whoopee
+That's how you look
+
+{c:Repeat first verse}
+

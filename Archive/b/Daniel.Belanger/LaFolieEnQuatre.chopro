@@ -1,0 +1,44 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:La folie en quatre}
+{subtitle:Daniel Bélanger}
+# Typed in by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: A9/C# base-fret 1 frets x 4 2 0 0 x}
+{define: G+ base-fret 1 frets 3 2 0 0 3 3}
+{define: G/F# base-fret 1 frets 2 X 0 0 3 3}
+#Lyrics
+[G]      [A9/C#]          [C]      [B7]       [Em]       [C]      [G]      [D] 
+S'il fallait[G] qu'un de ces quatre[A9/C#]     [C],
+[B7]Mon âme se disperse[Em]       [C]      [G]      [D]
+Bien avant[G] qu'elle ne s'écarte[A9/C#]     [C]         
+[B7]Du corps qui la berce[Em]       [C]      [G]      [D]
+
+Qu'un de ces quatre[G+], qu'un de ces jours[G/F#] la folie[Em]...
+
+[G]      [A9/C#]          [C]      [B7]      [Em]        [C]      [G]      [D] 
+S'il fallait[G] qu'à cause d'elle[A9/C#]     [C]        
+[B7]Ton nom s'efface de ma mémoire[Em]       [C]      [G]      [D]
+Que si fac[G]ilement ma cervelle[A9/C#]     [C]           
+[B7]Se répète du matin au soir[Em]      [C]      [G]      [D]
+
+S'il fallait[G+] qu'un jour ce jour se jure[G/F#] de ma folie[Em]...
+
+[G]      [A9/C#]          [C]      [B7]      [Em]        [C]      [G]
+[D]      [G+]       [G/F#]     [Em]
+En somme si[G] mon âme oubl[A9/C#]ie ton âme[C]
+Et que mes yeux[B7] oublient tes yeux[Em]      [C]      [G]      [D]
+Ce sera [G]le fruit d'la démence[A9/C#]
+Et non la [C]violence[B7] d'un aveu[Em]       [C]      [G]      [D]
+
+[G]Alors avant qu'un de ces jours[G/F#] la folie[Em]...
+
+Je t'aime[G]...
+
+[G]      [A9/C#]          [C]      [B7]      [Em]        [C]      [G]      [D] 

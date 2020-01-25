@@ -1,0 +1,55 @@
+{title: Don't Dream It's Over}
+{subtitle: Neil Finn (Crowded House)}
+{define E(9): base-fret 7 frets - 1 3 3 1 1}
+{define E9: base-fret 7 frets - 1 3 1 1 1}
+{define E7sus: base-fret 7 frets - 1 3 1 3 1}
+{define C#(9): base-fret 4 frets - 1 3 3 1 1}
+{comment_italic: Tune down a half-tone}
+[E(9)]Intro:    [E9]          [E7sus]
+
+[E(9)]There is freedom within, [C#(9)]there is freedom without, [A]try to catch the deluge in a paper [G#]cup
+[E(9)]There's a battle ahead, [C#(9)]many battles are lost
+[A]But you'll never see the end of the road while you're [G#]traveling with me
+
+{start_of_chorus}
+[A]Hey now, [B]hey now, don't[E(9)]dream it's [C#(9)]over
+[A]Hey now, [B]hey now, when the [E(9)]world comes [C#(9)]in
+[A]They come, [B]they come, [E(9)]to build a wall bet[C#(9)]ween us
+[A]We know they [B]won't win
+{end_of_chorus}
+
+[E(9)]Now I'm towing my car, [C#(9)]there's a hole in the roof
+[A]My possessions are causing me suspicion but there's no [G#]proof
+[E(9)]In the paper today [C#(9)]tales of war and of waste, [A]but you turn right over to the T.V.[G#] page
+
+{comment: chorus}
+
+{comment_italic: Chords under Hammond organ solo:  E(9)  C#(9)   A   G#}
+{start_of_tab}
+Solo:   E:----5-7-5--------4----|----5-7-5----------------|----5-7-5--------4-|
+        B:--5--------5-----5----|--5--------5---7>9-7-----|--5--------5-----5-|
+        G:6------------4-4----4-|6------------4-------9---|6------------4-4---|
+        D:7------------6-6------|7------------6---------9-|7------------6-6---|
+        A:----------------------|-------------------------|-------------------|
+
+        E:--------------5-------------5--5>7-10----------19-|
+        B:------5---5>7-----------5>7-----------12-12>14----|
+        G:----5------------4>5-4----------------------------|
+        D:--7-----------------------------------------------|
+        A:5-------------------------------------------------|
+{end_of_tab}
+
+[E(9)]Now I'm walking again [C#(9)]to the beat of a drum, [A]and I'm counting the steps to the door of your [G#]heart
+[E(9)]Only shadows ahead [C#(9)]barely clearing the roof, [A]get to know the feeling of liberation and re[G#]lief
+
+{comment: chorus}
+#
+#* UNUSUAL CHORDS
+#
+#E(9)   x79977
+#E9     x79777
+#E7sus  x797(10)7
+#C#(9)  x46644
+#
+#(Transcription by Marck Bailey)
+

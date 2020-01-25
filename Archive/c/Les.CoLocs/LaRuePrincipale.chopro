@@ -1,0 +1,64 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:La rue principale}
+{subtitle:Les Co-locs}
+# Typed in chordpro format by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#Lyrics
+{c:Intro Harmonica (en C)}
+(s:soufflé   i:inspiré)
+3i-4i 5s 6s 5s 4i 3s 3i 4i 4i 5s 4i 3i 2i 1i 2s 2i 
+
+{columns:2}
+Dans [C]ma p'tite ville on était juste quatre mille
+Pis la rue principale à s'appelait St-Cyrille
+La coop, le gaz bar, la caisse-pop, le croque-mort
+[G]Et le magasin général
+[F]Quand j'y retourne ça m'[G]fait assez mal
+Y'é [Am]tombe une bombe su'a rue principale
+[F]Depuis qu'y ont cons[G]truit le centre d'achat
+
+L'aut' [C]jour j'ai amené ma bien-aimée 
+Pour y montrer où c'est que j'étais né
+Aussitôt arrivé me v'la en beau joualvert
+[G]Ça avait l'air de Val-Jalbert
+[F]Quand j'y r'tourne ça m'[G]fait assez mal
+Y'é [Am]tombé une bombe su'a rue principale
+[F]Depuis qu'y ont cons[G]truit le centre d'achat
+
+{soc}
+#Chorus
+[F]Une bonne journée j'vas y retou[C]rner 
+Avec mon bulldozer
+[F]Pis l'centre d'achat y vas pas[G]ser
+Un mauvais quart d'heure
+{eoc}
+{column_break}
+Av[C]ant la v'nue du centre d'achat
+Sur la grande rue c'était plus vivant qu'ça
+Des ti-culs en bicycle, des cousines en visite
+[G]C'tait noir de monde comme en Afrique
+[F]Quand j'y r'tourne c'est [G]pathétique
+Ça va [Am]donc bien mal su'a rue principale
+[F]Depuis qu'y ont cons[G]truit le McDonald
+
+{comment: refrain}
+
+Dans [C]ma p'tite ville y sont pu rien qu'trois mille
+Pis la rue principale est devenue ben tranquille
+L'épicerie est partie, le cinéma aussi
+[G]Et le motel est démoli
+[F]Quand j'y r'tourne ça m'[G]fait assez mal
+Y'é [Am]tombé une bombe su'a rue principale
+[F]Depuis qu'y ont cons[G]truit le centre d'achat
+
+{comment: refrain}
+
+{comment: premier couplet}
+
+[C]Le centre d'achat, le centre d'achat, le centre d'achat...

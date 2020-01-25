@@ -1,0 +1,53 @@
+{t:Plush}
+{st:Stone Temple Pilots}
+# Tabbed by Steve Vetter  <vetters@vax1.elon.edu>
+{define: D/F#    base-fret 1 frets 2 x 0 2 3 2}
+{define: G/B     base-fret 1 frets x 2 x 0 3 0}
+{define: D/A     base-fret 1 frets x 0 0 3 2 x}
+{define: Ebmaj7  base-fret 1 frets x 1 1 3 3 3}
+{define: C/E     base-fret 1 frets 0 3 2 0 1 0}
+{define: Cadd9   base-fret 1 frets x 3 2 0 3 0}
+
+{sot}
+--3--3--3----3--3--3-----3--3--3--------
+--3--3--2----1--1--0-----0--1--2--------    (repeat)
+--0--0--3----2--2--0-----0--0--0--------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+{eot}
+
+[G]And I[D/F#] feel that tim[F]e's a wasted go[C/E]  [Ebmaj7]
+So where you go[F]ing for tom[G]morow?
+And I [D/F#]see that there[F] are lies to come[C/E]   [Ebmaj7]
+so would you [F]even care
+[D]  [Cadd9]  [G/B]  [Cadd9] and I [D/A]feel [Cadd9]it  [G/B] [Cadd9]
+[D]  [Cadd9]  [G/B]  [Cadd9] and I [D/A]feel [Cadd9]it  [G/B] [Cadd9]   [Ebmaj7]
+Where you going for tom[F]morow?    [Ebmaj7]
+Where you going with the [F]mask I found?  [Ebmaj7]
+And I feel and I feel when the [F]dogs begin to smell her[Ebmaj7]
+will she smell alone[F]?                                      
+
+{c:repeat intro} 
+
+And I feel so much depends on the weather
+so is it raining in your bedroom?  And I see
+that these are the eyes of disarray
+So would you even care?
+
+And I feel it
+And she feels it
+So where you goin to tomorrow?
+Where you goin with the mask I found?
+And I feel, I feel, when the dogs begin to smell her...
+Will she smell alone?
+
+{c:bridge:}
+
+[G]When the dogs[F] do find her [C/E]  got time[D], t[Eb]ime  to w[D]ait for t[G]ommorow
+[F]to find it [C/E]to find i[D]t  [Eb]  To find it
+when the dogs do find her got time, time to wait for tommorow
+to find it to find it
+
+{c:intro again and out}
+

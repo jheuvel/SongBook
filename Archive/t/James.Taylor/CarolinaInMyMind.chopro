@@ -1,0 +1,67 @@
+# Compile with
+# gchord -g -o CarolinaInMyMind.ps CarolinaInMyMind.chopro
+#
+# CarolinaInMyMind.chopro
+# output of TXT2CHO v0.1   17.02.94
+# for automatically created .CHO - files
+#
+#
+{t:Carolina in my mind}
+{st:James Taylor}
+
+{c:Capo on 3rd fret}
+
+{define: A#o7 base-fret 1 frets 0 1 2 0 2 0}
+{define: D/F# base-fret 1 frets 2 x 0 2 3 0}
+{define: A/C# base-fret 2 frets x 3 1 1 1 4}
+#
+#Chords used:
+#
+#    D     G    G/F#  Em7   G/A   A/C#  Bm    D/F#  E7
+#E: -2-   -3-   -3-   ---   -3-   ---   -2-   ---   ---
+#B: -3-   ---   ---   -3-   -3-   -5-   -3-   -3-   -3-
+#G: -2-   ---   ---   ---   ---   -2-   -4-   -2-   -1-
+#D: ---   ---   ---   -2-   ---   -x-   -4-   ---   -2-
+#A: ---   -x-   -x-   -2-   -x-   -4-   -2-   -x-   -2-
+#E: ---   -3-   -2-   ---   ---   ---   ---   -2-   ---
+#
+#   Bm7    C   A#o7  A7sus4 A7   F#m7   G/H
+#E: -2-   ---   ---   ---   ---   -2-   -3-
+#B: -3-   -1-   -2-   -3-   -2-   -2-   -3-
+#G: -2-   ---   ---   ---   ---   -2-   ---
+#D: -4-   -2-   -2-   -2-   -2-   -2-   -x-
+#A: -2-   -3-   -1-   ---   ---   -4-   -2-
+#E: ---   ---   ---   ---   ---   -2-   ---
+#
+#
+{soc:}
+I[D]n my mind Ive g[G]one to Ca[G/F#]rolina    [A]  
+[G]Cant you see the sunsh[A]ine? C[Em7]ant you just feel the   
+m[A]oonshining?  [D]Aint it just lik[A/C#]e a friend o[Hm]f mine [A]to  
+[G]hit me [D/F#]from behind[E7].   [G/A]Yes Im go[D]in to C[Hm7]aroli -  
+n[Em7]a    [G/A]in my min[D]d.  [D]  
+{eoc:}
+
+Ka[D]ren, shes a sil- v[C]er sun Youd best wal[G]k her way and watch  
+[A]it  [A#o7]shining.  [Hm] Watch her w[G]atch the morning come. [A]  
+[A]  A   [G]silver tear appear - [D/F#]ing now, Im c[Hm7]ry - i[E7]ng  
+[A7sus4]aint     [A7] I? Ive[D] gone t[Hm7]o Carolin[Em7]a in [G/A]my mind. [D]   [D]  
+
+There aint no doubt in no ones mind that loves the finest thing 
+around. Whisper something soft and kind.And hey babe, the skies on 
+fire, Im dying aint I? Ive gone to Carolina in my mind.
+
+{c:Chorus}
+
+Dark and silent, late last night I think I heard the highway 
+calling; geese in flight and dogs that bite.
+And signs that might be omens say Im going, Im going, Ive gone 
+to Carolina in my mind.
+
+[D]With a [G]holy host of ot[A]hers standing round me[Hm].    [Hm]  
+[F#m7]Still Im on the dark [Em7]side of the moon.  [G]  
+[A]   And it seem[C]s like it goes o[G]n like this forev - e[D]r. 
+Y[D]ou must for - [C]give me  [G/H]   [Em7]   
+[G/A]if Im up and gone [D]to C[Hm7]arolin[Em7]a in[G/A] my mind.[D]   [D]  
+
+{c:Chorus}

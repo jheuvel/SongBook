@@ -1,0 +1,46 @@
+# From: Harlan L Thompson <harlant@uhunix.uhcc.Hawaii.Edu>
+{t:KING MIDAS IN REVERSE}
+{st:The Hollies/Crosby, Stills, Nash and Young}
+{define CaddF base-fret 1 frets x 3 2 0 1 1}
+{define CaddA base-fret 1 frets x 3 2 0 3 0}
+{define FaddG base-fret 1 frets x x 3 2 1 3}
+{define BmaddBb base-fret 1 frets x 2 4 3 3 2}
+{define Bm7 base-fret 1 frets x 2 4 2 3 2}
+#
+# NOTE:  This Graham Nash song was a hit for the Hollies, but I know it as 
+# a bonus track on the CD version of CSNY's Four Way Street.
+
+[G]If you could only s[C]ee me
+[G]And know exactly who I a[C]m  [CaddF]      [C]  [CaddA]     
+[G]You wouldn't want to b[C]e me
+Why I [B7]can assure you of that
+[G]I'm not the guy to r[C]un with
+[G]Cos I'll throw you off the li[C]ne
+[G]I'll break you and destr[C]oy you
+Given [B7]time
+
+{c:CHORUS:}
+[G]He's King Midas with a [Fmaj7]curse   [FaddG]     
+[C]He's King Midas in rev[G]erse [G/C]     [G]  
+[G]He's King Midas with a [Fmaj7]curse  [FaddG]    
+[C]He's King Midas in rev[G]erse
+
+It's plain to see it's hopeless
+Going on the way we are
+So even though I lose you
+We'd be better off by far
+
+{c:BRIDGE:}
+He's [Bm]not the man to hold your trust
+[BmaddBb]Everything he touches turns to d[Bm7]ust in his ha[E]nds
+[Bm]Nothing he can do is right
+[BmaddBb]He'd even like to sleep at n[Bm7]ight, but he[E] can't
+
+{c:CHORUS}
+
+I wish someone would find me
+And help me gain control
+Before I lose my reason and my soul
+
+{c:CHORUS}
+

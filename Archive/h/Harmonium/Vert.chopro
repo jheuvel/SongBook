@@ -1,0 +1,47 @@
+{title:Vert}
+{st:Harmonium}
+
+# {define: A7/C# 1 0 2 0 2 4 -1}
+{define: A7/C# base-fret 1 frets -1 4 2 0 2 0 }
+# {define: G/D 1 3 0 0 0 -1 -1}
+{define: G/D base-fret 1 frets -1 -1 0 0 0 3 }
+# {define: G6 1 0 0 0 0 2 3}
+{define: G6 base-fret 1 frets 3 2 0 0 0 0 }
+# {define: Gmaj7 1 2 0 0 0 2 3}
+{define: Gmaj7 base-fret 1 frets 3 2 0 0 0 2 }
+
+{c:Note de départ : B}
+V[Em]ert [G6] [F#m]
+Ja[B7]une et rouge et bl[Em]eu
+J'a[G6]i le[F#m] sol[B7]eil dans les yeux
+[Em] Avant d'nous f[G6]aire ses adieux
+[F#m] J'sais p[B7]as lequel de nous deux
+[Em] qui [G6]a baisser les ye[F#m]ux
+
+V[B7]iens de comme[C]ncer à descendr[A7/C#]e
+avant d'se rendr[G/D]e
+y va nous mo[Am7]ntrer ses couleurs [G]
+comme s'il avai[Am7]t eu peur
+[Cmaj7] y est aller rougir ailleur[G]s [G]
+
+[Em]Gris aut[G6]our et noir au loi[F#m]n
+la fo[B7]rêt me rejoint [Em]
+[Gmaj7] [F#m] [B7]
+
+[Em]pareil au j[G6]eu d'un magicien [F#m]
+La f[B7]orêt me retient [Em] [G6] [F#m]
+[B7]Viens de comme[C]ncer à descendr[A7/C#]e
+avant d'me rend[G/D]re
+faut que j'm[Am7]'invente d'autres couleur[G]s
+c'est comme s[Am7]i j'avait peur
+[Cmaj7] de me retrouver ailleur[G]s [G]
+
+[Em7] T'oublier toute une anné[A]e
+une année pour t'oubli[Am7]er
+même la fol[D7]ie perd la raiso[Em]n [Em]
+[F#m] La j'ai l'goût[B7] d'me ratrapper [Em]
+débouler, débouler... [Em]
+de me retrouve[F#7]r [Fmaj7]
+la la la [Em]la... [Em]
+[B7] [Am7] [F#7] [Fmaj7] [Em] [Em]
+

@@ -1,0 +1,72 @@
+# Rick Kreifeldt (sl2d1@sol.ee.usu.edu)
+{t:Romeo and Juliet}
+{st:Dire Straits}
+{define F base-fret 5 frets x 4 3 1 2 1}
+{define Dm base-fret 5 frets x 1 3 3 2 1}
+{define C base-fret 5 frets 4 3 1 1 1 4}
+{define Bb base-fret 5 frets 2 4 4 3 2 2}        
+{define Gm base-fret 5 frets x x 1 3 4 2}
+#        Actual chord     Play Capo'd as first position
+#        F  (x87565)      C
+#        Dm (x57765)      Am
+#        C  (875558)      G
+#        Bb (688766)      F        
+#        Gm (xx5786)      Dm        
+{c:Intro:}
+              [F]   [Dm]   x4
+
+{c:Verse I:}
+        [F]A lovestruck Rome[C]o [Dm]sings the streets a serenad[C]e[F]
+        [F]Laying everybody [C]lo[Dm]w with a love s[C]ong that he [Bb]made
+        [C]Finds a street light steps[Bb] ou[C]t into the sh[F]ade
+        Says som[Bb]ething like you and me babe, [C]how about it?   
+        [F]Juliet says hey it's Romeo,[C] y[Dm]ou nearly gave me a heart [C]at[F]tack
+        [F]He's underneath the window[C], [Dm]she's singing hey la my boyf[C]ri[Bb]ends back
+        [C]you shouldn't come around he[Bb]re s[C]inging up to people like [F]that
+        A[Bb]nyway, what you gonna do a[C]bout it?
+
+{c:Chorus I:}
+        [F]Juliet [C]the dice was l[Dm]oad[C]ed from the st[Bb]art
+        [F]And I b[C]et, and you ex[Dm]plo[C]ded in my hear[Bb]t.
+        [F]And I f[C]orget, I forge[Dm]t, the movie son[Bb]g
+        [Gm]When you gonna realize it was just t[F]hat the t[Bb]ime wa[C]s wron[Dm]g  J[C]uli[F]et?
+ 
+
+{c:Verse II:}
+        Come up on different streets, they both the streets of shame
+        Both dirty both mean, yes and even and dream was just the same
+        And I dreamed your dream for you and now your dream is real.
+        How can you look at me as if I was just another part of your deal
+
+        Well you can fall for chains of silver, you can fall for chains of gold.
+        you can fall for pretty strangers and the promises they hold
+        You promised me everything, you promised me thick and thin yeah
+        Now you just say oh Romeo yeah, I used to have a scene with him.
+
+{c:Chorus II:}
+        Juliet when we made love you used to cry
+        you said I love you like the stars above I'll love you till I die
+        There's a place for us, you know the movie song
+        When you gonna realize it was just that the time was wrong Juliet?
+
+{c:Verse III:}
+        I can't do the talk, like they talk on the tv
+        I can't do a love song, like the way it's meant to be.
+        I can't do anything, but I'd do anything for you.
+        I cant't do anything but be in love with you.
+
+        And all I do is miss you and the way we used to be
+        All I do is keep the beat and bad company.
+        All I do is kiss you through the bars of a rhyme
+        Juliet I'd do the stars with you anytime.
+
+{c:Repeat Chorus II:}
+
+{c:Verse IV:}
+        A love struck Romeo, sings the streets a serenade.
+        Now he's laying everymody low, with a love song that he made.
+        Finds a convenient street light, steps out of the shade
+        Says something like you and me babe how about it
+
+{c:Outro:}
+        Bb C  (as long as the lead player can do those tasty fills)

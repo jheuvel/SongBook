@@ -1,0 +1,52 @@
+# by Maurizio Codogno (mau@beatles.cselt.stet.it)
+
+{title: Blackberry Way}
+{subtitle: The Move}
+{define: Em+ base-fret 0 frets 0 2 2 0 1 0}
+{define: Em/D# base-fret 0 frets x x 1 0 0 0}
+{define: Eb9 base-fret 6 frets x 0 2 2 0 0}
+{define: D9 base-fret 5 frets x 0 2 2 0 0}
+
+  [Em]Blackberry [Em+]way[Em6],
+  Abso[Em+]lutely [Em]pouring [F#]down with rain,
+  It's a [Am]terrible day,[D]
+  [Em]Up with the [Em+]lark[Em6],
+  Silly [Em+]girl I [Em]don't know [F#]what to say,
+  She was [Am]running away[D]
+[G]  So now I'm [G/F#]standing on the [Em]corner,
+  [Bm7]Lost in the [Bbm7]things that I [Am7]said,
+  [Cm]What am I supposed to do [Em]now[Em/D#][Em/D]?[Eb9][D9]
+
+{soc}
+  [G]Goodbye blackberry [Bm]way,
+  [C]I can't see you
+  [Am7]I don't [D7]need you
+  [G]Goodbye blackberry [Bm]way,
+  [Am7]Sure to want me [D7]back another [G]day.
+{eoc}
+
+  Down to the park,
+  Over growing but the trees are bare,
+  There's a memory there,
+  Boats on the lake,
+  Unatended now the laughter drowned,
+  I'm incredibly down,
+  Just like myself they are negleted,
+  Turn with my eyes to the wall,
+  What am I supposed to do now?
+
+{ci: chorus, ending with a E7}
+
+[Am] [C] [Am](voca[E7]lized[Am])   [C]  [Am]  [E7]  [Am]  [G7]
+
+  Run for the train,
+  Look behind you for she may be there,
+  Said a thing in the air,
+  Blackberry way,
+  See the battlefield of careless sins,
+  Cast to the winds,
+  So full of emptiness without her,
+  Lost in the words that I said,
+  What am I supposed to do now?
+
+{ci: chorus ad libitum}

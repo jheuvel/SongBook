@@ -1,0 +1,104 @@
+Date: Mon, 11 Apr 1994 01:19:30 +0200
+From: lmcpaga@LMC.Ericsson.SE (Lmcpaga)
+Subject: CRD: Happy Loving Couples (Joe Jackson)
+Message-ID: <1994Apr10.231930.11455@exu.ericsson.se>
+Newsgroups: rec.music.makers.guitar.tablature
+
+ * From: lmcpaga@LMC.Ericsson.SE (Paul Gantous)
+ * Reply-To: lmcpaga@LMC.Ericsson.SE
+ * Newsgroups: rec.music.makers.guitar.tablature,alt.guitar.tab
+
+Someone asked for this a few days ago.  Enjoy.
+   __@
+ _`\<,_
+(*)/ (*)_________________________________________________________
+  Paul
+
+PS: Merge rec.music.makers.guitar.tablature with alt.guitar.tab!
+    Merge merge merge!
+-----------------------------------------------------------------
+
+{title: Happy Loving Couples}
+{subtitle: Joe Jackson}
+# Typed in by Paul Gantous (lmcpaga@lmc.ericsson.se).
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+#   Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+#   define: chord_name base-fret high-E-str B-str G-str D-str A-str low-E-str
+#
+
+# Chord definitions
+{define C base-fret 3 frets x 0 2 2 2 0}
+{define D base-fret 5 frets x 0 2 2 2 0}
+{define Dm7 base-fret 5 frets x 0 2 0 1 0}
+{define G base-fret 3 frets 0 2 2 1 0 0}
+
+[G][Dm7][G][Dm7][G][Dm7][G][Dm7]
+[G]I've just been to see my [Dm7]best friend
+[G]he's got another [Dm7]girl
+[G]says she's just about the [Dm7]best thing
+[G]in the whole damn [Dm7]world
+
+And he [C]says can't you see what the [G]little lady's done for me
+[C]says it like he thinks I'm [Bm]blind
+but the [C]things that you see ain't nece[G]ssarily the things you can [D]find
+
+{soc}
+[C]Happy loving [D]couples make it look so [G]easy
+[C]Happy loving [D]couples make always talk so [G]kind
+[C]until the time that [D]I can do my dancing with a [G]partner
+[C]those happy [D]couples ain't no friends of [G]mine
+[G][C][D]
+{eoc}
+
+[G]People say I'm too damn [Dm7]fussy
+[G]when it comes to [Dm7]girls
+[G]happy couples say I [Dm7]must live
+[G]in a lonely [Dm7]world
+
+Wanna [C]be, wanna really be [G]what my friends pretend to be
+[C]be it in my own good [Bm]time
+being [C]kind to myself till I be[G]come one of two of a [D]kind
+
+{c:Chorus}
+
+[D]You ain't no friends of mine
+[G][C][D]
+[G][C][D]
+[G][C][D]
+[G]You ain't no [C]friends [D]of mine
+
+{c:Repeated 12 times with voice-over}
+[G][C][D]
+You know what I mean
+Happy loving couples
+In matching lamb turtle-neck sweaters (?)
+Reading Ideal Homes magazine
+Yea!
+
+Wanna [C]be, wanna really be [G]what my friends pretend to be
+[C]be it in my own good [Bm]time
+being [C]kind to myself till I be[G]come one of two of a [D]kind
+
+{c:Chorus}
+
+[D]You ain't no friends of mine
+[G][C][D]
+[G][C][D]
+[G][C][D]
+[G]You ain't no [C]friends [D]of mine
+[G][C][D]
+[G][C][D]
+[G][C][D]
+[G]You ain't no [C]friends [D]of mine
+[G][C][D]
+[G]You ain't no [C]friends [D]of mine
+[G][C][D]
+[G]You ain't no [C]friends [D]of mine
+[G]
+{c:Abrupt stop, Joe saying "Right, that's enough"}
+
+

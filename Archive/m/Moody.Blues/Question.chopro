@@ -1,0 +1,49 @@
+# From: Brent Curry <bcurry@hpb.hwc.ca>
+{t:QUESTION}
+{st:Moody Blues}
+{define Cdim base-fret 1 frets x x 1 2 1 2}
+{define F/C base-fret 1 frets x 3 3 2 1 1}
+{define Dm/C base-fret 1 frets x 3 O 2 3 1}
+{define G7sus4 base-fret 1 frets 3 3 O O 1 1}
+{define Csus4 base-fret 1 frets x x 3 O 1 3}
+
+[C]  [G7/C]   [G7]   [F]
+                  
+[Eb]    [F]     [Eb]   [D]  (3X)
+[G7]      [C]     [Cdim]       [G7]     [C]    [F]    [C] 
+[Cdim]      [G7]     [C]    [F]    [C]  
+
+Why do we [Cdim]never ge[G7]t an [C]answe[F]r [C]when we're [Cdim]knocking a[G7]t the [C]door?[F]
+[C]There's a [Cdim]thousand mil[G7]lion ques[C]tions[F] ab[C]out [Cdim]hate and deat[G7]h and [C]war.
+[F]'Cause [C]when we [Cdim]stop and loo[G7]k ar[C]ound us[F], th[C]ere is [Cdim]nothing that[G7] we [C]need[F]
+[C]In a [Cdim]world of per[G7]sec[C]ution[F] t[C]hat is [Cdim]burning in[G7] its [C]greed.
+[F]Ah,[C]----[Eb]-----[F]----[Eb]-----[D]--
+[G7]Ah,       [C]ah,     ah.  [F]    [C]    [Cdim]       [G7]     [C]    [F]    [C]    [Cdim]     [G7]    [C]   [F]   
+Why [C]do we [Cdim]never ge[G7]t an answer[F] wh[C]en we're [Cdim]knocking a[G7]t the [C]door?[F]
+Beca[C]use the [Cdim]truth is ha[G7]rd to swallow[F], That's [C]what the [Cdim]war of lo[G7]ve is for[C]!
+
+[F/C]     [C]   [Dm/C]      [C]   [Dm/C]      [C]   
+
+It's not the [F]way that you [C/E]say it when you [G7sus4]do those things to [C]me,
+It's [Dm]more [C/E]the [F]way that you [C/E]mean it when you [G7]tell me what will [C]be.
+And [Dm]when [C/E]you [F]stop and think a[C/E]bout it, you [G7sus4]won't believe it's t[C]rue,
+That [Dm]all [C/E]the [F]love you've been [C/E]giving has [G7]all been meant for [C]you.
+I'm looking [G7]for someone to change my [C]life,[Csus4][C]
+I'm looking [G7]for a miracle in my [C]life
+And if [F/C]you c[C]ould s[F]ee what it's done to [C]me
+To lose the love I [G7]knew you'd safely lead me [C]through.
+Bet[Dm]ween [C/E]the [F]silence of the [C/E]mountains and the [G7sus4]crashing of the [C]sea,
+There [Dm]lies[C/E] a l[F]and I once [C/E]lived in and she's [G7]waiting there for [C]me.
+But [Dm]in [C/E]the [F]gray of the [C/E]morning, my [G7sus4]mind becomes confu[C]sed,
+Be[Dm]tween[C/E] the [F]dead and the [C/E]sleeping and the[G7] road that I must [C]choose.
+I'm looking [G7]for someone to change my [C]life,[Csus4][C]
+I'm looking [G7]for a miracle in my [C]life
+And if [F/C]you co[C]uld [F]see what it's done to [G7]me
+To lose the love I [C]knew you'd safely [Dm]lead[C/E] me [F]to 
+the land that I once [C]knew
+To learn as we grow [G]old the secrets of our [C]soul.
+It's n[Dm]ot [C/E]the [F]way that you [C/E]say it when you d[G7sus4]o those things to [C]me,
+It's [Dm]more [C/E]the [F]way you really [C/E]mean it when you [G7]tell me what will [C]be.
+
+{c:repeat beginning part and fade.}
+

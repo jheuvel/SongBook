@@ -1,0 +1,48 @@
+{t: I'll keep you satisfied}
+{st: Billy J. Kramer}
+#
+# lyrics from Dean Myers <Dean.Myers@EBay.Sun.COM>
+# chords from Maurizio Codogno <mau@beatles.cselt.stet.it>
+#
+# A nice Lennon&McCartney tune.  The record is actually in F, but I don't
+# believe it is possible to play all there chord/bass pattern with a
+# guitar alone. But then, playing it in E doesn't allow to put that nice
+# Cadd9m chord... You can always play it at the piano :-) or avoid the 
+# bass notes - .mau.  
+#
+{define Eb base-fret 3 frets x 3 2 0 1 0}
+{define Dbmaj7 base-fret 1 frets x 3 2 0 0 0}
+{define F/C base-fret 1 frets x 2 2 0 1 0}
+{define F7/Eb base-fret 0 frets x x 1 1 2 1}
+{define Bb/D base-fret 0 frets x x 0 3 3 1}
+{define Bbm/Db base-fret 0 frets x 4 x 3 2 1}
+{define Cadd9m base-fret 0 frets x 3 2 3 2 0}
+
+[F] [Eb] [Dbmaj7] [C7]
+You [Gm7]don't need any[C7]body to [F]hold you. [F/C]  
+Here I [Gm7]stand with my [C7]arms open [F]wide. [F/C]
+Give me [F]love and re[F7/Eb]member what I [Bb/D]told you. [Bbm/Db]  
+[F]I'll keep you [C]satis[F]fied.
+ 
+You [Gm7]don't need any[C7]body to [F]kiss you. [F/C]  
+Ev'[Gm7]ryday I'll [C7]be here by [F]your side. [F/C]
+Don't go [F]away.   I'm af[F7/Eb]raid that I might [Bb/D]miss you. [Bbm/Db]
+
+[F]I'll keep you [C]satis[F]fied.
+ 
+{soc} 
+You can [C]always get a simple thing like [F]Love any[Dm]time.
+But it's [C]different with a [Bb]boy like me and a [Gm7]love like [C7]mine.
+So be[Gm7]lieve ev'ry[C7]thing that I've [F]told you [F/C]
+And a[Gm7]gree that [C7]with me by [F]your side [F/C]
+You don't [F]need any[F7/Eb]body to [Bb/D]hold you. [Bbm/Db]  
+[F]I'll keep you [C]satis[F]fied.
+{eoc}
+
+{ci: solo: | Gm7 C7 | F F/C | Gm7 C7 | F F/C | F F7/Eb | Bb/D Bbm/Db | }
+[F]I'll keep you [C]satis[F]fied.
+ 
+{c: chorus} 
+ 
+Give me [F]love and re[F7/Eb]member what I [Bb/D]told you. [Bbm/Db]  
+[F]I'll keep you [Cadd9m]satis[F]fied.

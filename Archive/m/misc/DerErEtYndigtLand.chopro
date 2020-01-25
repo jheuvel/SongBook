@@ -1,0 +1,45 @@
+BEGIN { previous = "" }
+/{c:/ { print "{c:Chorus}" }
+$0 !~ /({c:|{ns})/  { print $0 }
+END { print "# Morten Kringelbach"}
+BEGIN { previous = "" }
+/{c:/ { print "{c:Chorus}" }
+$0 !~ (/{c:/|/{ns}/)  { print $0 }
+{t:Der Er Et Yndigt Land.}
+{st:Adam Oehlenschl\346ger}
+
+Der [C]er et yndigt la[F]nd,
+det st\345r med brede b[C]\370ge,
+n\346r [G7]salten \370ster[C]strand!
+n\346r [G]salt[Am]en [G]\370ster[D]stra[G]nd;
+det [G7]bugter sig i b[C]akke, dal,
+det h[F]edder g[D7]amle Danm[E]ark
+og[A7] det [D]er [G7]Frej[C]as sa[F]l,
+og det er [C]fre[G]jas [G7]sa[C]l.
+
+Der sad i fordums tid,
+de harniskkl\346dte k\346mper,
+udhvilede fra strid;!
+udhvilede fra strid;
+s\345 drog de frem til fjenders m\351n,
+nu hvile deres bene  
+bag h\370jens bautasten,
+bag h\370jens bautasten.
+
+Det land endnu er sk\370nt,
+thi bl\345 sig s\370en b\346lter,
+og l\370vet st\345r s\345 gr\370nt!
+og l\370vet st\345r s\345 gr\370nt;
+og \346dle kvinder, sk\370nne m\370'er
+og m\346nd og raske svende
+bebo de danskes \370er.
+bebo de danskes \370er,
+
+Hil drot og f\346dreland,
+Hil hver en danneborger,
+som virker, hvad han kan!
+som virker, hvad han kan
+Vort  gamle Danmark skal best\345,
+s\345 l\346nge b\370gen spejler
+sin top i b\370lgen bl\345,  
+sin top i b\370lgen  bl\345.

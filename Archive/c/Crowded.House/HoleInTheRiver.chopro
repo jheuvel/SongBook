@@ -1,0 +1,53 @@
+{title: Hole in the River}
+{subtitle: N. Finn & E. Rayner -- As Performed by Crowded House}
+{define Am/G: base-fret 1 frets 3 0 2 2 1 0}
+{define Am/F#: base-fret 1 frets 2 0 2 2 1 0}
+#
+#NOTES:
+#
+#-- For the intro, if you sit on an Em chord on the 7th fret (X79987),
+#you can find your way around the main melody line of the keyboard that
+#Eddie Rayner is playing.  (The guitar part at that point is just doing
+#that damped string/percussive thing, so when playing it alone on an
+#acoustic, it helps to play around on the Em.)
+#
+#-- The psychedelic instrumental break is composed entirely on C#m (a
+#last-minute idea from Nick Seymour that saved this song from being
+#scrapped.)  All the fun stuff is going on in the keyboards, while the
+#guitar just sits on that one chord.  I would suggest creating a guitar
+#solo for this section (which is what Neil does when it's performed
+#live).
+There's a hole in the [C]river w[D]here my auntie [A]lies [Em]
+From the land of the [C]living [D]to the air and [A]sky [Em]
+Left her car by the [C]river [D]left her shoes be[A]side [Em]
+Through the thorns and the [C]bushes[D] I hope she [Am]was ...
+
+[Am/G]Dreaming of [Am/F#]glory
+[B]Miles a[Am]bove the[Am/G] mountains and [Am/F#]plains
+[B]Free at [Am]last   [Am/G]      [Am/F#]
+
+We were touched by a [C]cold wind, [D]my father and [A]I [Em]
+The sound of desperate [C]breathing [D]her fear inside us [A]all [Em]
+She was coming to see [C]him but [D]something changed her [A]mind [Em]
+Drove her down to the [C]river
+[D]There is no [Am]return
+
+{start_of_tab}
+Guitar Solo: E:--------------|------------|--------------|---------||
+             G:--------------|------------|--------------|---------||
+             B:--------------|------------|------------8-|---------||
+             D:4--7--9-9--7--|-4--7--9----|-4--7--9-9----|-4--7--9-|| Am  Am/G  Am/F#
+             A:--------------|---------7--|--------------|---------||
+{end_of_tab}
+
+[B](instrumental)     [Am]               [Am/G]             [Am/F#]
+
+There's a hole in the [C]river [D]where a memory [A]lies [Em]
+From the land of the [C]living [D]to the air and [A]sky [Em]
+She was coming to see [C]him
+But [D]something changed her [A]mind [Em]
+Drove her down to the [C]river
+[D]There is no [Am]return
+#
+#(Transcription by Marck Bailey)
+

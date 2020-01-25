@@ -1,0 +1,138 @@
+#Chordpro format by rilynch@delphi.com
+{t:Under the Bridge}
+{st:Red Hot Chili Peppers}
+{define E base-fret 7 frets 1 1 3 3 3 1}
+{define B base-fret 7 frets 1 3 3 2 1 1}
+{define C#m base-fret 4 frets 1 1 3 3 2 1}
+{define A base-fret 5 frets 1 3 3 2 1 1}
+{define Emaj7 base-fret 7 frets 1 1 3 2 3 1}
+{define F#m.. base-fret 9 frets 1 1 3 3 2 1}
+{define F#m base-fret 2 frets 1 3 3 1 1 1}
+{define Fmaj7.. base-fret 10 frets x x 1 1 1 3}
+{define E7 base-fret 9 frets x x 1 1 1 2}
+{define A. base-fret 5 frets x 0 3 2 1 0}
+{define C base-fret 3 frets x x 3 3 3 1}
+{define Fmaj7 base-fret 0 frets x x 3 2 1 0}
+{define G6 base-fret 3 frets x x 3 2 1 0}
+{define G base-fret 10 frets 1 1 3 3 3 1}
+{c: Intro }
+{sot}
+  D                      F#                    D
+e|---------------------!---------------------!--------------___----------|
+b|(1)------1-----------!(0)------------------!-------------1-3-1---------|
+g|-----0-----0---------!---------1-----------!---------0---------0-------|
+d|---2---2-------------!-----2-----2-2-0-----!-----2---------------2/4-4-|
+a|-3-----------2-0-----!---2---2---------3-0-!-2/3---3---3---------3/5-5-|
+E|-----------------3-2-!-0-------------------!---------------------------|
+
+   F#                    D                         F#
+e|---------------------!-------------------------!---------------------|
+b|-0-------------------!-------------1-----------!---------------------|
+g|---------1-----------!---------0-----0---------!---------1-----------|
+d|-----2-----2-2-0-----!-----2-----2-------------!-----2-----2-2-0-----|
+a|---2---2---------3-0-!-2/3---3---------2-0-----!---2---2---------3-0-|
+E|-0-------------------!---------------------3-2-!-0-------------------|
+
+  D                            F#
+e|--------------___----------!-----------------------|
+b|-------------1-3-1---------!-----------------------|
+g|---------0---------0-------!---------1-----1-------|
+d|-----2-----2---------2/4-4-!-----2-----2-----2-----|
+a|-2/3---3-------------3/5-5-!---2---2-----2-----2/5-|
+E|---------------------------!-0---------------------|
+{eot}
+
+
+[E]Sometimes I [B]feel like I [C#m]don't have a [B]part[A]ner
+[E]Sometimes I[B]feel like [C#m]my only[A] friend
+Is the[E] city I[B] live in the[C#m] City of[B] An[A]gels
+[E]Lonely as[B] I am
+To[C#m]gether we[A] cry [Emaj7]
+
+I drive on her streets 'cause she's my companion
+I walk through her hills 'cause she knows who I am
+She sees my good deeds and she kisses me windy
+I never worry
+Now that is a lie.
+{npp}
+{soc}
+{c:chorus 1}
+I don't ever[F#m..] want to [E]feel
+[B]Like I[F#m] did that day
+Take me to the[F#m..] place I[E] love
+[B]Take me[F#m] all way
+
+I don't ever[F#m..] want to [E]feel
+[B]Like I[F#m] did that day
+Take me to the[F#m..] place I[E] love
+[B]Take me[F#m] all way[E] Oh___[B]__ [C#m][B][A]
+[E][B][C#m][A]
+{eoc}
+
+It's hard to believe there's nobody out there
+It's hard to believe that I'm all alone
+At least I got her love the city she loves me
+Lonely as I am
+Together we cry
+
+{soc}
+{c:chorus 2}
+I don't ever[F#m..] want to [E]feel
+[B]Like I[F#m] did that day
+Take me to the[F#m..] place I[E] love
+[B]Take me[F#m] all way
+
+I don't ever[F#m..] want to [E]feel
+[B]Like I[F#m] did that day
+Take me to the[F#m..] place I[E] love
+[B]Take me[F#m] all way
+[A.]Ay___[C]Ay___[G6]Ya [Fmaj7]Ya
+[A.]Oh,  [C]  no__ no no__ [G6]  yea[Fmaj7] yea!__
+[A.]Love__[C] me__ I say__[G6]  yea[Fmaj7] yea!__
+{eoc}
+
+[Fmaj7..]  [E7]  [G]
+{npp}
+[A.]Under the bridge down[C]town
+[G6]Is where I[Fmaj7] drew some blood
+[A.]Under the bridge down[C]town
+[G6]I could not[Fmaj7] get enough
+[A.]Under the bridge down[C]town
+[G6]Forgot a[Fmaj7]bout my love
+[A.]Under the bridge down[C]town
+[G6]I gave my[Fmaj7] life away
+
+[A.]Ay___[C]Ay___[G6]Ya [Fmaj7]Ya
+[A.]Oh,  [C]  no__ no no__ [G6]  yea[Fmaj7] yea!__
+[A.]Down__[C] town__ I say__[G6]  yea[Fmaj7] yea!__
+[A.] [C] Will I stay[G6] [Fmaj7]
+{sot}
+{c:And now the outro}
+
+   A        C             G6    ?                A       C
+                              let ring---------         let ring--------
+e:-0-0-0--0-------------:-0-0---0------_---0---|-0--0-0------------_----|
+b:-5-5-5--5-5--5-5--5-5-:-3-3---0-----0 1----1-|-5--5-5--5--5-5-5-8 5-5-|
+g:-6-6-6--6-5--5-5--5-5-:-4-4---2--------------|-6--6-6--5--5-5-5-5-----|
+d:-7-7-7--7-5--5-5--5-5-:-5-5---3--------------|-7--7-7--5--5-5-5-------|
+a:----------------------:----------------------|------------------------|
+E:----------------------:----------------------|------------------------|
+
+   G6          Fmaj7       A      C              G6         Fmaj7 
+           let ring------          let ring----
+e:-0--0-0--0---0--___----:-0--0-0---------_----:-0--0-0--0---0--0-0--|
+b:-3--3-3--0---1-0 1 0---:-5--5-5-5--5-5-8 5---:-3--3-3--0---1--1-1/-|
+g:-4--4-4--2---2-------2-:-6--6-6-5--5-5-----5-:-4--4-4--2---2--2-2/-|
+d:-5--5-5--3---3---------:-7--7-7-5--7-7-------:-5--5-5--3---3--3-3/-|
+a:-----------------------:---------------------:---------------------|
+E:-----------------------:---------------------:---------------------|
+
+   A        C                 G6          Fmaj7  A
+            let ring-------        let ring-
+e|-0--0-0-------------------|-0-------0---0-|----0------|
+b|-5--5-5---5--5-5--5-------|-3--3----0---1-|----2------|
+g|-6--6-6---5--5-5--5 7 5---|-4----0--2---2-|----2------|
+d|-7--7-7---5--5-5---___--7-|-5-------3---3-|----2------|
+a|--------------------------|---------------|----0------|
+E|--------------------------|---------------|-----------|
+{eot}

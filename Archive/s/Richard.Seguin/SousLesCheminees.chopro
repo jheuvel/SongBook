@@ -1,0 +1,81 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t: Sous les cheminées}
+{subtitle:Richard Séguin}
+# Typed in by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: G base-fret 1 frets 3 2 0 0 3 3}
+{define: C base-fret 1 frets x 3 2 0 3 3}
+{define: D9/F# base-fret 1 frets 2 0 0 2 3 0}
+{define: D4/F# base-fret 1 frets 2 0 0 2 3 3}
+{define: Em base-fret 1 frets 0 2 2 0 3 3}
+{define:D9/B base-fret 1 frets x 2 0 2 3 0}
+{define: Em7 base-fret 1 frets x 0 2 0 3 0}
+#Intro: pas exactement comme elle est jouee, mais ca sonne pas pire!
+{c:Intro}
+{sot}
+     G             C
+hE ----------------------------3-----3-----3---------------------
+ B --3-------3-----1d0-------0---1-----1-------------------------
+ G ------0-------0-------2---------0-----0-------0---2p0-----0--- 2X
+ D ----0-------0-------2---------------------0h2---2-----0h2-----
+ A ----------------3-------3---3-----3-----3---------------------
+hE --3-----3-----------------------------------------------------
+{eot}
+#Lyrics
+
+{Columns: 2}
+[G]Premier amour, [D9/F#]premier baiser,
+[Em]Le vent chaud du [D9/F#]mois de mai
+[G]J'entendais tes rires courir [D9/F#]dans l'air figé
+De l'[Em]été suffocant qui ava[D9/F#]it tout son temps
+Ta [C]blouse entrouverte, mon or[D9/F#]eille sur ton coeur
+Cou[G]chés dans le champs on avait [Em]fait le serment
+De ne [C]jamais vieillir, de ne [D9/F#]jamais mourir
+
+{soc}
+#Chorus
+[C]Sous les chemin[D9/F#]ées
+Celles [G]qui brûlent jour et [Em]nuit
+[C]Sous les chemin[D9/F#]ées
+Celles [C]qui brûlent... jour et nuit 
+{c:Intro}
+{eoc}
+
+Le fleuve [G]était cache comme il l'a [D9/F#]toujours été
+De[Em]vant le restaurant on tr[D9/F#]ainait nos quinze ans
+On re[G]gardait passer les car[D9/F#]gos étrangers
+Bapti[Em]sés de surnoms qu'on leur [D9/F#]avait donnés
+Char[C]gés d'horizons de nos [D9/F#]rêves déchainés
+Char[G]gés des soirées sans sa[Em]voir ou aller
+Quand [C]les yeux se ferment en qui[D9/F#]ttant le rivage
+Quand [C]les yeux se ferment pour [D9/F#]garder cette image
+
+{comment: refrain}
+{colb}
+Dans un [G]pays encore à [D9/F#]genoux
+[Em]Des noms de rues empruntés [D9/F#]un peu partout
+[G]Boulevard Broadway, [D9/F#]pare-chocs chromés
+[Em]Gangs de quartier, vent [D9/F#]de liberté
+Ciné[C]ma qui se mire dans [D9/F#]les flaques d'eau
+Qu'écla[G]boussent aussitôt les [Em]rêves brisés
+Sem[C]aine rapiecee en [D9/F#]robe du dimanche
+Qui re[C]fait le trajet prot[D9/F#]égé par les anges
+
+{comment: refrain}
+Le [C]soleil s'endort sur la lign[D9/B]ée de wagons
+A [Em7]bien regarder, rien n'a [D9/B]vraiment changé
+[C]Derrière la fumée, mais[D9/B]ons d'ouvriers
+Les [Em7]rêves oubliés l'autre [D9/F#]coté du fossé
+Et [C]le vent murmure entre [D9/F#]les peupliers
+Le [G]secret des mots off[Em]ert à la vie
+Ne [C]jamais vieillir, ne [D9/F#]jamais mourir
+[C]Même s'il fallait y [D9/F#]laisser sa peau
+
+{comment: refrain}

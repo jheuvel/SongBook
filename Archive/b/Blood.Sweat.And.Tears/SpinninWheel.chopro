@@ -1,0 +1,55 @@
+{t:Spinnin' Wheel}
+{st:Blood, Sweat & Tears}
+{st:(D. Clayton-Thomas)}
+#by rogers@sasagusa.hi.com - Andrew Rogers (old fart at play)
+{define: E7#9 base-fret 5 frets x 2 1 2 3 x}
+{define: A13 base-fret 4 frets 1 x 1 2 3 x}
+{define: D7#9 base-fret 3 frets x 2 1 2 3 x}
+{define: G13 base-fret 2 frets 1 x 1 2 3 x}
+{define: Abadd2 base-fret 3 frets x x 3 2 1 3}
+{define:F7sus4(no5) base-fret 8 frets x 1 1 1 x x}
+{define:F7#9sus4(no5) base-fret 8 frets x 1 1 1 2 x}
+
+{c:intro: horns}
+[D7#9](cresendo) - [D7#9]///// //// /
+
+[E7]What goes [A7]up [D7]must come [G]down
+[E7]Spinnin' w[A7]heel [D7]got to go 'r[G]ound
+[E7]Talkin' 'bout your t[A7]roubles it's a c[D7]ryin' s[G]in
+[D7]Ride a painted pony let the s[D7#9]pinnin' wheel spin
+
+You[E7#9] got no [A13]money and you[D7#9] got no [G13]home
+[E7#9]Spinnin' w[A13]heel [D7#9]all al[G13]one
+[E7#9]Talkin' 'bout your [A13]troubles and you [D7#9]never l[G13]earn
+[D]Ride a painted pony let the spin[D7#9]nin' wheel turn
+
+[C]Did you find the [Bb]directing sign on the str[Abadd2]aight and narrow h[G]ighway
+[C]Would you mind a r[Bb]eflecting sign, just[Abadd2] let it shine with[G]in your mind
+[Ab/G]And show you the c[Bb]olors that are r[C]eal    [DaddE]    [Am7/D]
+
+{c:horns (staccato - chords are built on fourths, see legenda)}
+[F7sus4(no5)]/  /  /  /  /// ///    [F7#9sus4(no5)]/////  ////  //
+
+Someone is waiting just for you
+Spinnin' wheel, spinnin' true
+Drop all your troubles by the riverside
+Catch a painted pony on the spinnin' wheel ride.
+
+{c:LP-version: jazz improvisation on trumpet}
+[E7#9]  [A13]   [D7#9]  [G13]   [(4x)]
+[E7#9]  [Eb7#9]  [D7#9]
+{c:(single version substitutes guitar solo over E7-A7-D7-G (2x))}
+
+Someone is waiting just for you
+Spinnin' wheel, spinnin' true
+Drop all your troubles by the riverside
+Ride a painted pony, let the spinning wheel fly.
+
+{c:coda (3/4): hornds alternate with flutes}
+{c:(eb) is single note on trombone}
+[E7#9]b - c b a - [A13]g d d  [(eb)]-     [D7#9]a d d - [Gmaj7]g     (repeat)
+  
+------------------------------------------------------------------------------
+{c: legenda:}
+        F7sus4   (F-Bb-Eb)      x888xx
+        F7#9sus4 (F-Bb-Eb-Ab)   x8889x

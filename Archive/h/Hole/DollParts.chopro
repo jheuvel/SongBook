@@ -1,0 +1,30 @@
+#Translated to ChordPro by Jonas Nordstrom, jon@mail.exallon.se
+{t:Doll Parts}
+{st:Hole}
+
+{define A base-fret 0 frets x 0 2 2 2 x}
+{define Cmaj7 base-fret 0 frets x 3 2 0 0 x}
+{define G base-fret 0 frets 3 2 0 0 0 x}
+{define G* base-fret 0 frets 3 2 0 0 3 3}
+
+{c:Verse 1}
+[A]I am [Cmaj7]doll eyes [G]doll mouth [Cmaj7]doll legs
+[A]I am [Cmaj7]doll arms [G]big veins [Cmaj7]dog beg
+[A]Yeah they really [Cmaj7]want you they really [G]want you they really [Cmaj7]do
+[A]Yeah they really [Cmaj7]want you they really [G]want you and I do [Cmaj7]too
+
+{soc}
+[A]I want to [Cmaj7]be the [G*]girl with the most cake[G*]
+[A]I love [Cmaj7]him so [G*]much it just turns to hate[G*]
+[A](He only [Cmaj7]loves those [G*]things because he loves to see them [G*]break)
+[A]I fake [Cmaj7]it so [G*]real I am beyond [G*]fake
+{c:Repeat the following 2 times first time sung, 5 second time}
+[A]And some day[Cmaj7]  y[G*]ou will ache like I ache[G*]
+{eoc}
+
+{c:Verse 2 (played same as 1)}
+I am doll parts, bad skin doll heart
+It stands for knife, for the rest of my life
+Yeah they really want you they really want you they really do
+Yeah they really want you they really want you, and I do too
+

@@ -1,0 +1,41 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{title:Pour un instant}
+{st:Harmonium}
+# Typed in chordpro format by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+{define: A4 base-fret 0 frets x 0 2 2 3 0}
+#
+#Lyrics
+[D]Pour un instant j'ai oubli[Em]é mon [A]nom
+[D]Ça m'a permis enfin d'é[Em]crire [A]cette [D]chanson
+
+[D]      [Dsus2]         [D4]       [D]
+
+[D]Pour un instant j'ai retour[Em]né mon mi[A]roir
+[D]Ça m'a permis enfin de [Em]mieux me [A]voir
+
+[D]Sans m'arrê[Em]ter j'ai fon[F#m]cé dans le [G]noir
+[D]Pris comme un [Em]loup qui n'a [F#m]plus d'es[G]poir
+
+J'ai perd[A]u mon [A4]temps à gagner du [A]temps
+J'ai besoin de me trouv[A4]er une histoire à me con[A]ter
+
+[D]Pour un instant j'ai respi[Em]ré très [A]fort
+[D]Ça m'a permis de visi[Em]ter mon [A]corps
+
+[D]Des incon[Em]nus vivent en [F#m]rois chez [G]moi
+[D]Moi qui a[Em]vais accep[F#m]té leur [G]lois
+
+J'ai perd[A]u mon [A4]temps à gagner du [A]temps
+J'ai besoin de me trouv[A4]er une histoire à me con[A]ter
+
+[D]Pour un instant j'ai oubli[Em]é mon [A]nom
+[D]Ça m'a permis enfin d'é[Em]crire cet[A]te [D]chanson
+
+[D]      [D4]       [D]      [Dsus2]         [D]

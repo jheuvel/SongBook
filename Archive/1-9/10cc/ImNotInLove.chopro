@@ -1,0 +1,42 @@
+{title: I'm not in love}
+{st: 10 CC}
+{define: A/B base-fret 0 frets x 2 2 2 2 0}
+{define: E/G# base-fret 4 frets 0 3 2 0 1 0}
+{define: A/E base-fret 0 frets 0 0 2 2 2 0}
+{define: G/E base-fret 0 frets 0 2 0 0 0 3}
+{define: D/E base-fret 0 frets 0 0 0 2 3 2}
+{define: B9sus4 base-fret 2 frets x 0 0 2 0 0}
+
+[A/B]   [B]   [A/B]   [B]   [A/B]   [B]   [A/B]   [B]   [G#7]
+
+[A]  I'm not in love,[Am]   so don't forget it.
+[E/G#]  It's just a [G#7]silly phase I'm [C#m]going through. [C#m7]
+[A]  And just because[Am]    I call you up,
+[E/G#]  Don't get me [G#7]wrong, don't think you've [C#m]got it made. [C#m7]
+[A]  I'm not in love, no [B9sus4]no, it's be[E]cause... [A/E] [G/E] [A/E]
+
+[A]  I like to see you,[Am]   but then again,
+[E/G#]  That doesn't [G#7]mean you mean that [C#m]much to me. [C#m7]
+[A]  So if I call you,[Am]   don't make a fuzz;
+[E/G#]  Don't tell your [G#7]friends about the [C#m]two of us. [C#m7]
+[A]  I'm not in love, no [B9sus4]no, it's be[E]cause...
+
+{c: instrumental}
+
+[A]  I keep your picture[Am]   upon the wall.
+[E/G#]  It hides a nasty [G#7]stain that's [C#m]lying there. [C#m7]
+[A]  So don't you ask me[Am]   to give it back.
+[E/G#]  I know you know it [G#7]doesn't mean that [C#m]much to me. [C#m7]
+[A]  I'm not in love, no [B9sus4]no, it's be[E]cause...
+
+[Am]Ooh, you'll [D7]wait a long time for [G]me. [Em]
+[Am]Ooh, you'll [D7]wait a long time.   [D/E]  [E]  [D/E]  [E]
+[Am]Ooh, you'll [D7]wait a long time for [G]me. [Em]
+[Am]Ooh, you'll [D7]wait a long time.   [D/E]  [E]  [D/E]  [E]
+
+[A]  I'm not in love,[Am]   so don't forget it.
+[E/G#]  It's just a [G#7]silly phase I'm [C#m]going through. [C#m7]
+[A]  And just because[Am]    I call you up,
+[E/G#]  Don't get me [G#7]wrong, don't think you've [C#m]got it made. [C#m7]
+[A]  I'm not in love,[Am]   I'm not in [B9sus4]love... [B]  [A/B]  [B]
+{c: fade on}

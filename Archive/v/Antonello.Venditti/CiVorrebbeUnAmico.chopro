@@ -1,0 +1,54 @@
+# by Maurizio Codogno (mau@beatles.cselt.stet.it)
+{title: Ci vorrebbe un amico}
+{subtitle: Antonello Venditti}
+{define C/D base-fret 0 frets x x 0 0 1 0}
+{define E/F# base-fret 0 frets 2 2 2 1 0 0}
+{define Emadd9 base-fret 0 frets 0 2 2 0 0 2}
+{define F#madd9 base-fret 2 frets 0 2 2 0 0 2}
+{define G#madd9 base-fret 4 frets 0 2 2 0 0 2}
+[G]Stare insieme a te è [Em7]stata una partita
+va [Cmaj7]bene hai vinto tu e [G]tutto il resto è vita [C/G]
+[G]  Ma se penso che l'amore è darsi [Em7]tutto dal profondo
+in [Cmaj7]questa nostra storia sono [C/D]io che vado a [D7]fondo
+
+{soc}
+Ci vorrebbe un a[G]mico per poterti di[Emadd9]menticare
+ci vorrebbe un a[Cmaj7]mico per dimenticare il [G]male
+Ci vorrebbe un amico qui per sempre al mio [Emadd9]fianco
+ci vorrebbe un a[Cmaj7]mico nel dolore e nel rim[C/D]pian[D]to
+{eoc}
+
+Amore amore logico amore disperato
+lo vedi sto piangendo ma io ti ho perdonato
+E se amor che nulla ho amato amore amore mio perdona
+in questa notte fredda mi basta una parola
+
+{soc}
+Ci vorrebbe un amico per poterti dimenticare
+ci vorrebbe un amico per dimenticare il male
+Ci vorrebbe un amico qui per sempre al mio fianco
+ci vorrebbe un amico nel dolore e nel rimpianto
+{eoc}
+
+[A]Di di di [F#m7]di di...[Dmaj7][A][D/A]
+[A][F#m7][Dmaj7][D/E][E]
+
+{soc}
+Ci vorrebbe un a[B]mico per poterti di[G#madd9]menticare
+ci vorrebbe un a[Emaj7]mico per dimenticare il [B]male
+Ci vorrebbe un amico qui per sempre al mio [G#madd9]fianco
+ci vorrebbe un a[Emaj7]mico nel dolore e nel rim[E/F#]pian[F#]to
+{eoc}
+
+[A]Vivere con te è [F#m7]stata una partita
+il [Dmaj7]gioco è stato duro co[A]munque sia finita[D/A]
+[A]  Ma sarà la notte magica o [F#m7]forse l'emozione
+io [Dmaj7]mi ritrovo solo [D/E]davanti al tuo por[E]tone
+
+{soc}
+Ci vorrebbe un a[A]mico per poterti di[F#madd9]menticare
+ci vorrebbe un a[Dmaj7]mico per dimenticare il [D/E]male[E]
+Ci vorrebbe un a[B]mico qui per sempre al mio [G#madd9]fianco
+ci vorrebbe un a[Emaj7]mico nel dolore e nel rim[E/F#]pian[F#]to
+Ci vorrebbe un a[B]mico ...
+{eoc}

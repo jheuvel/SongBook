@@ -1,0 +1,71 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:Sèche tes pleurs}
+{subtitle:Daniel Bélanger}
+# Typed in chordpro format by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+#   define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: E+ base-fret 5 frets x 3 2 x 1 0}
+{define: D+ base-fret 3 frets x 3 2 x 1 0}
+{define: D/F# base-fret 1 frets 2 0 0 2 3 0}
+{define: Am/F base-fret 1 frets 1 0 0 2 1 0}
+#Lyrics
+{columns: 2}
+[Am]J'ai jamais vu une fille 
+[G]Pleurer autant pour un gar[C]çon
+Jamais vu l'amour,[E+]       [D+]       [E]
+Créer d'la haine de cette [Am]façon
+Ses chagrins le jour
+[G]Vont finir dans ceux de la [C]nuit
+Faut la voir [E]marcher d'un pas [Am]lourd 
+Comme si chaque [G]pied pesait sur lu[Dm]i
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Am]pleurs
+
+[Am]Y'a quinze jours est parti,
+[G]Celui qu'elle voulait pour long[C]temps
+Est parti celui, [E+]       [D+]        [E]
+Dont elle souhaite la mort mainten[Am]ant
+Qu'il crève, mieux qu'il souffre
+[G]Qu'une fille le largue par dessus [C]bord
+Que dans ses [E]larmes comme moi s'ét[Am]ouffe
+Que l'sud d'la [G]fille lui fasse du nor[Dm]d
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Am]pleurs
+
+[Am]A qui veut bien l'entendre, 
+[G]Elle en dit du mal autant qu'elle [C]peut
+Le con, le chien, l'salaud, [E+]       [D+]       [E]
+Pas d'gentillesse, pas d'souvenir [Am]tendre
+{column_break}
+Pleure et pleure encore, 
+[G]Qu'avec toutes les larmes qui [C]tombent
+J'ai pensé [E]calmer mes re[Am]mords 
+Et fournir [G]en eau le tiers mon[Dm]de
+
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Dm]pleurs
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Am]pleurs
+
+[Am]Qui j'vois c't'après-midi, 
+[G]Son pauvre diable tout avin[C]é
+Je l'aime et je m'ennuie, [E+]       [D+]       [E]
+Pourquoi tu vas pas la r'trou[Am]ver
+Et je m'disais tout bas, 
+[G]Vas-y elle se meurt de te re[C]voir
+Cours-y me [E]rendre service à [Am]moi, 
+Boucher l'aff[G]luent d'la mer noi[Dm]re
+
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Dm]pleurs
+Sèche tes [E]pleurs, sèche tes [Am]pleurs, 
+J'[D/F#]t'en prie [Am/F]sèche tes [Dm]pleurs
+[D/F#]Sèche tes [Am/F]pleurs ma [Am]soeur... [D/F#]           [Am/F]
+[Am]
+[D/F#]Sèche tes [Am/F]pleurs ma [Am]soeur... [D/F#]           [Am/F]

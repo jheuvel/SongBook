@@ -1,0 +1,67 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t: L'ange Vagabond (Acoustique)}
+{subtitle: Richard Séguin}
+# Typed in by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+#   define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+{define: Am7 base-fret 1 frets x 0 2 0 1 0}
+#
+#Lyrics
+{cb: 6e corde (E) accordée en D}
+
+{c: Après chaque Dm  Am7, jouer:}
+{sot}
+hE-----------------
+ B-----------------
+ G-----------------
+ D---------0-------
+ A--0-0h3----0----- 
+lE-------------0---
+{eot}
+
+{columns: 2}
+[Dm]Tu cherchais qui, [Am7]tu cherchais quoi ?
+[Dm]De Lowell Mass. [Am7]jusqu'à L.A.
+[Dm]Peut-être une trace [Am7]de parenté
+[Dm]Un peu de toi [Am7]ou un abri
+
+[Dm]Y'avait de l'encre [Am7]dans ton stylo
+[Dm]Des mots qui chantent [Am7]sur ton rouleau
+[Dm]T'as pris la route [Am7]du bout d'la nuit
+[Gm7]T'as viré d'boutte seul [Am7]dans Paris
+
+[Dm]Dans ta mémoire [C]y'a des tir[F]oirs
+De [C]sales histoires [Dm]de sans espoirs
+Le [C]Merrimac [Dm]et du cognac
+De [Gm7]grandes prières [Am7]pour ton p'tit frère
+
+[Dm]       [C]      [Dm]       [C]
+[Dm]Tu cherchais qui, [Am7]tu cherchais quoi ?
+[Dm]De Lowell Mass. [Am7]jusqu'à L.A.
+[Dm]Comme un apôtre [Am7]sans Jésus-Christ
+[Gm7]D'un bord à l'autre [Am7]de ce pays
+{colb}
+[Dm]Dans ta mémoire [C]y'a des tir[F]oirs
+D'[C]amours brisés [Dm]d'canucks fuckés
+[C]Tu savais bien [Dm]qu'un immigré
+Parle pas pour [Gm7]rien    [Am7]au monde entier
+
+[Dm]On the road aga[C]in, [Bb]on the road [Am7]again
+[Gm7]Au bout de ta [Am7]peine comme un requ[Dm]iem
+On the road aga[C]in, [Bb]on the road [Am7]again
+[Gm7]Au bout de ta [Am7]peine comme un [Bb]requiem[C]
+
+[Dm]Tu cherchais qui, [Am7]tu cherchais quoi ?
+[Dm]De Lowell Mass. [Am7]jusqu'à L.A.
+[Dm]Un peu de toi [Am7]ou un abris
+[Gm7]D'un bord à l'autre [Am7]de ce pays
+
+[Dm]Eh... [C]Eh...   [F]Na...   [Gm7]Na...    [Dm]Oh...    [Bb]Oh... [C]
+
+[Dm]Tu cherchais [C]qui, tu cherchais [F]quoi?
+[Gm7]        [Dm]       [Bb]       [C] 

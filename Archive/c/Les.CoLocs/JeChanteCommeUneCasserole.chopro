@@ -1,0 +1,72 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:Je chante comme une casserole}
+{subtitle:Les Co-locs}
+# Typed in chordpro format by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: CM7 base-fret 3 frets 1 1 3 2 3 1}
+{define: CbM7 base-fret 2 frets 1 1 3 2 3 1}
+{define: Dm7 base-fret 5 frets 1 1 3 3 2 1}
+{define: G7 base-fret 3 frets 1 3 1 2 1 1}
+#Lyrics
+{columns: 2}
+[CM7]        [Dm7]        [CM7]        [Dm7]
+[CM7]Je me lève [Dm7]le matin, je [CM7]commence à chanter
+[CM7]Ma poulette et [Dm7]mes voisins 
+Me [CM7]pressent de m'la farmer
+En [Dm7]guise de cocorico j'en[CM7]tone ce petit air
+Qui [Dm7]tire les gens de leur dodo
+Et l[CM7]es mets su' l'gros [G7]nerf
+
+{soc}
+#Chorus
+Je [CM7]chante comme une cass[Dm7]erole 
+Et je m'y [G7]fait revenir à [Dm7]mainte repr[CM7]ises
+Mon [CM7]look de sex-[Dm7]symbole 
+Vous fait [G7]oublier cette [Dm7]torture audit[CM7]ive
+{eoc}
+
+Ma [CM7]voix défonse [Dm7]les tympans [CM7]sans comicérations
+Les [CM7]enfants et les [Dm7]éléphants n'y [CM7]font pas exception
+Il [Dm7]parrait que les végétaux [CM7]aiment bien la musi[CbM7]que
+Je [Dm7]ferais des lieux tropicaux des [CM7]contrées déser[G7]tiques
+
+{comment: refrain}
+
+[Dm7]Quand je chante mes [CM7]plus belles chansons
+[Dm7]Je cherche avant tout l'émo[CM7]tion
+[Dm7]Je vous donne sans entracte
+Et sous un[CM7]e pluie de [A]tomates
+[Dm7]Mon coeur, mon âme, mon [CM7]indiscible [G7]charme
+{colb}
+Il [CM7]chante comme une cass[Dm7]erole
+(Je chante comme une casserole)
+Et il s'y [G7]fait revenir à [Dm7]mainte reprises
+(oui plusieurs fois)
+Son [CM7]look de sex-symbol
+(Mon look de sex-symbol)
+Vous fait [G7]oublier cette [Dm7]torture audit[CM7]ive
+(Achicouca)
+
+A l'[CM7]hôpital quand [Dm7]je mourrai d'une [CM7]extinction de voix
+Les [CM7]oreilles seront [Dm7]débouchés en [CM7]souvenir de moi
+Je [Dm7]chanterai au paradis pend[CM7]ant des millé[CbM7]naires
+Jé[Dm7]sus, les anges et Dieu aussi s'en[CM7]fuiront en en[G7]fer
+
+{comment: refrain}
+
+{c: Solo d'Harmonica (en C)}
+(s:soufflé   i:inspiré)
+9s 8s 7s 6s 5s 4s 4s 5s 6s 6s 6i 7s 8i 8i
+4s 4s 5s 6s 5i 6s 5i 6s 5i 6s 6s 5i
+4s 4s 4s 4s 5s 4i 4s 4i 4s
+8s 8s 8s 8s 8s 9i 9i
+10s(7X) 5s 4i 4s 5s 5s 5s 5s 5s 4s 3s 4s
+
+Macaroni ... and cheeze!

@@ -1,0 +1,38 @@
+#9-6-94 Chord 3.5
+# chord -t 14 -T Times-Bold inputfile > outputfile
+# formatted by Joe Balshi jdb@aloft.cnet.att.com
+# the song is based on the Em and E11 alternation, if you know the song
+# you will get it right away. This is from the Code of the Road CD.
+{chordsize: 11}
+{title:Keith Don't Go}
+{subtitle: Nils Lofgren}
+{define: Em base-fret 7 frets 1 1 3 3 2 1 }
+{define: C base-fret 8 frets 1 3 3 2 1 1 }
+{define: A base-fret 5 frets 1 3 3 2 1 1 }
+{define: B base-fret 7 frets 1 3 3 2 1 1 }
+{define: E11 base-fret 7 frets x x 1 1 1 1 }
+
+[Em]This [E11]is a right away letter, I've got to mail it today
+Straight to my main inspirer, says urgent from the USA
+Its got this heart inside it, the postage is my [A]soul
+Contains a [Em]message[E11] from millions[B], says Keith don't [A]go
+
+
+10000 guitars wailin', but it ain't quite the same
+You've got a knack for sailin', and it's stamped with your own brand name
+We's all sailors, as captain you must know
+You bring a message to millions, says Keith don't go
+
+{c:chorus}
+{soc}
+I said [C]Keith don't go; Don't [A]take my fun
+[Em]Keith[E11] don't go; Keith don't go
+{eoc}
+{c: chord break    play C A C B}
+We miss our father Jimi, it's hard to breathe with that loss
+But I still got you brother, don't nail yourself to a cross
+I watch you lead the pack, you put the drive into my soul
+You bring a message to millions, says Keith don't go
+
+{c:chorus}
+{c: Guitar Solo}

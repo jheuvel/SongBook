@@ -1,0 +1,36 @@
+#9-6-94 Chord 3.5
+# chord -t 14 -T Times-Bold inputfile > outputfile
+# formatted by Joe Balshi jdb@aloft.cnet.att.com
+# This is from the Code of the Road CD.
+{chordsize: 11}
+{title:Moontears}
+{subtitle: Nils Lofgren}
+{define: Fmaj7 base-fret 1 frets x x 3 2 1 0 }
+{define: G base-fret 0 frets x x 0 0 0 x }
+
+[E]Here I come again[D] on a [A]Saturday night[G]
+[E]After the first[D] love that [A]ever felt right[G]
+[E]Ask me if it's [D]right to [A]love another guy[G]
+[E]First I say yes[D], then I[A] tell her why[G]
+{c:chorus}
+{soc}
+[Em]Cryin' moontears,[D]---[C]--[D] 
+[Em]I'm cryin' moontears,[D]---[C]--[D] 
+[Em]Cryin' moontears,[D]---[C]--[D] 
+[Em]I'm cryin' moontears,[D]---[C]--[D] 
+{eoc}
+
+Early in the morning I feel the sun
+True love is sad if it's the only one
+She looks good and it hurts my head
+Sometimes I think I'd feel better dead
+{c:chorus}
+Hear me cry!
+{c: Guitar Solo}
+Yeah, everyone is tryin' to love the one I love
+I don't think they really understand love
+It's easy to fall and harder to part
+No matter where it is it comes from the heart
+{c:chorus}
+{c:End Chord} 
+ENDING[Fmaj7]

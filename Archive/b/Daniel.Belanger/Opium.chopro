@@ -1,0 +1,75 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:Opium}
+{subtitle:Daniel Bélanger}
+# Typed in by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: Cadd9 base-fret 1 frets x 3 2 0 3 0}
+{define: Dadd9 base-fret 1 frets x x 0 2 3 0}
+{define: Asus4 base-fret 1 frets x 0 2 2 3 0}
+{define: Esus4 base-fret 1 frets 0 2 2 2 0 0}
+{define: Bm6 base-fret 1 frets x x 4 4 3 4}
+{define: Bm9 base-fret 1 frets x x 4 2 2 2}
+{define: A/E base-fret 1 frets 0 0 2 2 2 0}
+{define: B7sus4 base-fret 2 frets 1 1 3 1 4 1} 
+{define: B7sus base-fret 2 frets 1 1 3 1 1 1}
+#Lyrics
+{columns: 2}
+[Cadd9]          [Dadd9]          [Cadd9]          [Dadd9]
+[Em]       [Asus4]          [A]      [Bm]       [Em]       [Asus4]
+[A]      [Bm]
+
+[Em]Opium [Asus4]dans [A]le ciel[Bm],
+[Em]Formes rond[Asus4]es,  [A]
+[Bm]Formes belles
+[Em]J'ai des ami[Asus4]s qui [A]en abusent[Bm],
+Mais moi ma bohème s'[Em]use   [Asus4]          [A]      [Bm]
+
+[Em]Voie lact[Asus4]ée         [A]émeraude[Bm],
+[Em]La séance [Asus4]est      a[A]vant l'aube.[Bm]
+[Em]Les insomniaques[Asus4] s'amus[A]ent,
+Mais m[Bm]oi ma bohème s'[Em]use   [Asus4]          [A]      [Bm]
+
+[Em]Mais moi [G]ma boheme s'[Bm]use... [Asus4]          [A] 
+[Em]       [G]      [Bm]       [E]      [F#]
+
+{soc}
+#Chorus
+[Bm]La terre pivot[E]e et autour d'elle[G]      [D]
+[A]Des âmes [E]flânent   [G]      [D]      [A]
+[Bm]Une âme esp[E]ère et l'autre r[G]êve  [Esus4]          [E]
+{eoc}
+[Em]Des âmes planent[Em]
+{column_break}
+[Em]L'espace gard[Asus4]e en    [A]otage[Bm]
+[Em]Le luna[Asus4]tique[A]      [Bm]en son ouvrage
+[Em]Et le dauphin [Asus4]flou sous l'[A]hymen d'eau[Bm]
+Que la lune suit de ses flamb[Em]eaux [Asus4]          [A]      [Bm]
+
+[Em]Vous les bon[Asus4]heurs cé[A]leste[Bm]s,
+[Em]vous qui veni[Asus4]ez      [A]      [Bm]dans ma cambuse
+[Em]M'aimez-vous enco[Asus4]re,
+Aimez-[A]vous ce qu'il rest[Bm]e?
+Une fois que le temps
+Prend l'homme et l'[Em]use  [Asus4]          [A]      [Bm]
+
+[Em]Que le temp[G]s prend l'homme et l'[Bm]use...
+[Asus4]          [A]      [Em]       [G]      [Bm]       [E]      [F#]
+
+{comment: Refrain}
+[Bm]Des âmes planent
+[Bm6]        [Bm7]        [Bm9]        [Bm6]        [Bm7]
+
+{comment: Refrain}
+[A]Des âmes [E]planent  [G]      [D]      [A]
+
+{textsize:9}
+{ci:Pour chaque Bm, jouer:}
+{textsize:12}
+[Bm]      [B7sus4]           [Bm7]        [B7sus]

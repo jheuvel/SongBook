@@ -1,0 +1,63 @@
+# From:    tremfred@abl.ca (Frederick Tremblay)
+{t:Montréal}
+{subtitle:Beau Dommage}
+# Typed in chordpro format by Frederick Tremblay.
+#
+# Format is for the CHORD PostScript chord formatting utility.
+# Chord is a public domain utility developped by
+# Martin.Leclerc@Canada.Sun.Com and Mario.Dorion@Canada.Sun.Com
+#
+# Syntax of "define" instructions is:
+# define: chord_name base-fret _ frets low-E-str A-str D-str G-str B-str high-E-str
+#
+{define: C#dim base-fret 3 frets x 2 3 1 3 0}
+{define: Em6 base-fret 0 frets 0 2 2 0 2 2}
+{define: Gaug base-fret 0 frets x 0 1 0 0 3}
+#Lyrics
+{textsize: 11}
+{chordsize: 8}
+{columns: 2}
+[C]      [Em]       [C]      [Em6]             [A7]
+[D]C'pas facile d'être amou[G]reux à Montréal[F#m7], 
+Le ciel est bas, la [B]terre est grise, le fleuve est [C]sale
+Le Mont-Royal [Em]est mal à [D]l'aise, y'a l'air de [Em]trop.
+West[D]mount le tient [C]serré dans un é[Em]tau
+
+[G]Y'a des quar[D]tiers ou le monde [Em]veille sur le per[D]ron,
+Y'a une bonne [Cm7]femme qui en a fait une belle chan[D7]son
+[G]Dans ces bouts-[D]là les jeunes 
+Se [Em]tiennent au fond des [D]cours,
+Y prennent un [Cm7]coke, y prennent une bière
+Y font l'a[D7]mour [C#dim] [Edim]
+
+[D]Où chu né y'avait un [G]arbre à tout les vingt [F#m7]pieds
+Ça fait vingt ans de[B]puis c'temps-la, y'é zont cou[C]pés
+Ma première [Em]blonde, j'l'ai rencon[D]tré dans un han[Em]gar,
+On [D]jouait à guerre, é[C]tait espionne, moi j'étais [Em]mort.
+
+[G]Assis su'é [D]marche de l'esca[Em]lier du restau[D]rant, 
+J'ai dépen[Cm7]sé une bonne partie de mes quinze [D7]ans
+[G]Avec mon [D]chum Ti-Gilles, a[Em]vec le grand Pa[D]quette,
+On aga[Cm7]çait les filles, 
+Pis on s'appelait ta[D7]pettes [C#dim]          [Edim]
+{colb}
+[D]Quand j'tais jeune, j'ai eu d'la [G]peine, j'ai ben brail[F#m7]lé,
+J'ai cru mourir quand [B]ma Mireille, a m'a lais[C]sé
+A m'avait [Em]dit qu'un jour peut-[D]être a m'appelle[Em]rait,
+Quand [D]ses parents se[C]raient partis pour le cha[Em]let
+
+[G]Pis c't'arri[D]vé, y fallait [Em]ben qu'un jour ca [D]vienne,
+Un soir de [Cm7]pluie au coin d'Beaubien pis d'la neu[D7]vième
+[G]Des fois j'y [D]pense, je r'vois la [Em]fille, pis là j'me [D]dis 
+C'était sans [Cm7]doute le plus beau jour 
+De toute ma [D7]vie [C#dim]          [Edim]
+
+[G]      [Gaug]         [Bm]       [F]      
+[G]      [Gaug]         [Bm]       [F]      
+[A7]       [D7]       [C#dim]          [Edim]
+
+[G]Aujourd'hui, à Montré[C]al, chu en a[Bm7]mour,
+J't'aime comme un fou pis [E]j'va t'aim,er t'aimer tou[F]jours
+J'te conte tout [Am]ça, écoute moi [G]ben pendant qu'ça [Am]m'pogne,
+A[G]ssis au pied des [F]arbres du bois d'Bou[Am]logne.
+[F]      [Am]       [F]      [Am6]

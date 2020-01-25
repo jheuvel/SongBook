@@ -1,0 +1,43 @@
+#run with -a -g
+{t:Imagine}
+{st:John Lennon}
+{define: F   base-fret 1 frets x x 3 2 1 1}
+{define: E7  base-fret 1 frets 0 2 0 1 0 0}    
+{define: C/G base-fret 1 frets 3 3 2 0 1 0}
+{define: F/C base-fret 1 frets x 3 3 2 1 1}
+
+{c:Verse1:}
+[C]Imagine  there's no [Cmaj7]heaven[F]
+[C]It's easy if you[Cmaj7]  try[F]
+[C]No hell   b[Cmaj7]elow us[F]
+[C]Above us onl[Cmaj7]y sky[F]
+Imagine all[Am]  the peop[Dm7]le  [F/C]
+[G]Living   for [C/G]today[G7]   AH [C]
+
+{c:Verse2:}
+[C]Imagine there's [Cmaj7]no countries[F]
+[C]It isn't hard  [Cmaj7]to   do [F]
+[C]Nothing to kill [Cmaj7]or die [F]for
+[C]And no religion[Cmaj7] too [F]
+Imagine all[Am]  the peop[Dm7]le   [F/C]
+[G]Living   life [C/G]in pe[G7]ace
+
+{c:Bridge#1:}
+[F]You   may sa[G]y    I'm a dre[C]amer [E7]    [F]
+[F]But I'm n[G]ot the only one[C]    [E7]     [F]
+[F]I hope some da[G]y    you'll [C]join us[E7]     [F]
+and the wor[G]ld   will b[C]e as one
+
+{c:Verse3:}
+[C]Imagine no [Cmaj7]possessions [F]
+[C]I wonder if you[Cmaj7] can [F]
+[C]No need for greed [Cmaj7] or hunger[F]
+[C]A brother hood  [Cmaj7]of man [F]
+Imagine all[Am]  the peop[Dm7]le   [F/C]
+[G]Sharing all[C/G] the W[G7]orld
+
+{c:Bridge#2:}
+[F]You   may sa[G]y  I'm a dre[C]amer [E7]     [F]
+[F]But I'm n[G]ot the only one[C]     [E7]     [F]
+[F]I hope some da[G]y  you'll [C]join us [E7]     [F]
+and the wor[G]ld  will [C]live as one

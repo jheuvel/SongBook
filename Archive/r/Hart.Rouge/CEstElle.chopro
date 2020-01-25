@@ -1,0 +1,36 @@
+{t:C'est elle}
+{st:Hart Rouge}
+# {define: Aadd9    1 0 0 2 2 0 -}
+{define: Aadd9 base-fret 1 frets - 0 2 2 0 0 }
+# {define: Dadd9/F# 1 0 3 2 0 0 2}
+{define: Dadd9/F# base-fret 1 frets 2 0 0 2 3 0 }
+# {define: Dadd9    1 0 3 2 0 - -}
+{define: Dadd9 base-fret 1 frets - - 0 2 3 0 }
+
+C'est elle [Aadd9] [E] [Dadd9/F#] [D]
+C'est elle [Aadd9] [E] [Dadd9/F#] [D]
+
+{soc}
+Femme [Aadd9]de [E]terre fem[Dadd9/F#]me d'amour[D]
+Femme [Aadd9]de [E]chair fem[Dadd9/F#]me toujours[D]
+[Aadd9]Aucun [E]mur aucu[Dadd9/F#]ne frontière[D] ne pourront
+[Aadd9]l'arrê[E]ter cett' fem[Dadd9/F#]me de lumière[D]
+{eoc}
+
+Par[Aadd9]fois ell'[E]choque ou [Dadd9/F#]ell'm'alarme[D]
+Par[Aadd9]fois ell'[E]charme et a[Dadd9/F#]près c'est le drame[D]
+[Aadd9]Femm'tem[E]pête fem[Dadd9/F#]me éclair[D]
+[Aadd9]Femm' de [E]sang et [Dadd9/F#]de tonnerre[D]
+
+{c:refrain}
+
+Je [Aadd9]l'ima[E]gine quand elle [Dadd9/F#]prend son elan[D]
+Elle veut[Aadd9] me ca[E]resser comme [Dadd9/F#]un enfant[D]
+Quand [Aadd9]elle ef[E]fleure mes [Dadd9/F#]yeux brûlants[D]
+Elle m'ou[Aadd9]vre le [E]coeur à [Dadd9/F#]ses sentiments[D]
+
+{c:refrain}
+
+[E]Mais quand je vois l'é[Dadd9]clat du soleil
+[E]Et quand j'entends ma chanson [Dadd9]préférée
+[E]Et quand je sais que je [Dadd9]suis aimé

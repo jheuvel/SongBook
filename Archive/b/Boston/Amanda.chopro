@@ -1,0 +1,73 @@
+{t:Amanda}
+{st:Boston}
+# by Jeff Estefan: jae@explorer.jpl.nasa.gov)
+{define: G          1 3 0 0 0 x 3 }
+{define: C/G        1 3 1 0 2 x 3 }
+{define: G/B        1 3 3 0 x 2 x }
+{define: Dsus4      1 3 3 2 0 x x }
+{define: D(add9)    1 0 3 2 0 x x }
+{define: C/D        2 2 4 4 0 x x }
+{define: G/D        1 3 3 4 0 x x }
+{define: Csus2      1 x 3 0 x 3 x }
+{define: D7sus4     1 3 1 2 0 x x }
+{define: D/F#       1 x 3 2 0 x 2 }
+{define: Em/D       1 0 0 0 0 x x }
+{define: C/B        1 0 1 0 2 2 x }
+{define: Am/G       1 0 1 2 2 x 3 }
+
+{c:intro}
+[G]     [C/G]          [G]      [C/G]
+
+[G]Babe, to[C/G]morrow's so far a[G]way.
+There's [Em]somethin' I just have to [Bm]say.
+I don't [C]think I could hide
+what I'm [G/B]feelin' inside - an[Am]other day [G]
+knowin' I [Dsus4]love you[D].
+
+And [G]I, I'm [C/G]gettin' too close a[G]gain.
+[Em]I don't wanna see it [Bm]end.
+If I could [C]tell you tonight,
+will you [G/B]turn out the light - and [Am]walk away [G]
+knowin' I l[D]ove you? [C/D]        [G/D]        [D]
+
+{c:chorus}
+{soc}
+I'm gonna [Em]take you by surprise
+and [Am7]make you realize, A[D]manda. [Dsus4]         [D]        [D(add9)]            [D]
+I'm gonna [Em]tell you right away;
+I can't [Am7]wait another day, A[D]manda.[Dsus4]         [D]        [D(add9)]            [D]
+I'm gonna [Em]say it like a man
+and [Am7]make you understand, Am[D]anda. (second time: Oh, girl.)
+  Csus2
+I [Csus2]love you. (not sung second time)
+{eoc}
+
+[G]And, I [C/G]feel like today's the [G]day
+I'm [Em]lookin' for the words to [Bm]say.
+Do you [C]wanna be free?
+Are you [G/B]ready for me - to [Am]feel this way? [G]
+I don't wanna l[D]ose ya. [D7sus4]
+
+[G]So, it [C/G]may be too soon, I [G]know.
+The [Em]feelin' takes so long to [Bm]grow.
+If [C]I tell you today
+will you [G/B]turn me away - and [Am]let me go? [G]
+I don't wanna l[D]ose you. [C/D]      [G/D]         [D]        [Bm]
+
+{c:solo (chorus chords)}
+{c:chorus}
+{c:bridge}
+[E]         [Bm7]          [E]          [Bm7]
+[E]You and I, I [Bm7]know that we can't wait.
+And I swear,[E] I swear it's not a lie, girl.
+To[Bm7]morrow may be too late.
+[C]You, you and I,[D] girl,
+we can [G]share a [D/F#]life to[Em]gether.
+It's [Em/D]now or nev[C]er, [C/B]
+and to[Am]morrow may [Am/G]be too l[D]ate.
+[C/D]Oh. O[G/D]oo Oh Ooo [D]Oh.
+
+[G]And, [C/G]feelin' the way I [G]do,
+I don't [Em]wanna wait my whole life [Bm]through
+to [Am]say  [Am/G]-  I'm in love with [D]you.
+
